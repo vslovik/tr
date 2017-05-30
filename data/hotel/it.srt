@@ -1,0 +1,5585 @@
+1
+00:00:23,410 --> 00:00:27,410
+<i>Ladri di Cineteche e
+Mezzocannone occupato presentano:</i>
+
+2
+00:00:28,410 --> 00:00:30,310
+<b>The Grand Budapest Hotel</b>
+
+3
+00:00:31,000 --> 00:00:34,000
+<i>Trad. denatale</i>
+
+4
+00:00:35,653 --> 00:00:37,853
+All'estremo confine orientale dell'Europa.
+
+5
+00:00:38,600 --> 00:00:40,000
+L'ex-Repubblica di Zubrowka
+
+6
+00:00:40,800 --> 00:00:42,800
+Un tempo sede di un Impero.
+
+7
+00:01:44,312 --> 00:01:46,690
+È un errore molto comune,
+
+8
+00:01:46,856 --> 00:01:49,984
+Si crede che l'immaginazione di
+uno scrittore sia sempre all'opera,
+
+9
+00:01:50,360 --> 00:01:52,862
+che questi inventi
+costantemente
+
+10
+00:01:53,822 --> 00:01:54,989
+migliaia di eventi, di episodi,
+
+11
+00:01:55,240 --> 00:01:58,868
+che crei le sue storie
+dal nulla.
+
+12
+00:01:59,244 --> 00:02:01,788
+In realtà, è vero
+l'opposto.
+
+13
+00:02:01,955 --> 00:02:03,915
+Quando le persone sanno
+che sei uno scrittore,
+
+14
+00:02:04,290 --> 00:02:06,835
+ti portano racconti
+e personaggi
+
+15
+00:02:07,002 --> 00:02:09,754
+e finché conservi la tua
+abilità di osservazione
+
+16
+00:02:09,921 --> 00:02:12,382
+e di ascolto attento,
+
+17
+00:02:12,549 --> 00:02:15,010
+Queste storie continueranno a...
+
+18
+00:02:15,385 --> 00:02:17,846
+Smettila. Smettila!
+No! Non farlo!
+
+19
+00:02:23,351 --> 00:02:27,605
+Continueranno a trovarti
+per tutta la tua vita.
+
+20
+00:02:27,772 --> 00:02:31,026
+A colui che ha raccontato
+storie d'altri,
+
+21
+00:02:31,401 --> 00:02:32,902
+saranno raccontate molte storie.
+
+22
+00:02:33,278 --> 00:02:34,863
+- Scusa.
+- È tutto ok.
+
+23
+00:02:35,030 --> 00:02:38,283
+Gli eventi che seguono
+mi sono stati descritti
+
+24
+00:02:38,450 --> 00:02:41,453
+esattamente come ve li
+presenterò
+
+25
+00:02:41,619 --> 00:02:43,913
+e in un modo del
+tutto inaspettato.
+
+26
+00:02:51,588 --> 00:02:52,756
+<i>Diversi anni fa,</i>
+
+27
+00:02:52,922 --> 00:02:55,842
+<i>soffrendo di una lieve forma
+di "Febbre dello scrittore",</i>
+
+28
+00:02:55,967 --> 00:02:59,721
+<i>un tipo di neurastenia comune
+tra l'</i>Intelligencija<i> del tempo,</i>
+
+29
+00:02:59,929 --> 00:03:01,848
+<i>decisi di trascorrere il
+mese di Agosto</i>
+
+30
+00:03:01,973 --> 00:03:05,894
+<i>nella città termale di Nebelsbad
+a valle del Sudetenwaltz,</i>
+
+31
+00:03:06,311 --> 00:03:09,564
+<i>e alloggiavo al Grand Budapest,</i>
+
+32
+00:03:09,731 --> 00:03:14,611
+<i>un albergo pittoresco, elaborato e
+un tempo molto celebrato.</i>
+
+33
+00:03:14,778 --> 00:03:17,405
+<i>Molti di voi ne avranno
+sentito parlare.</i>
+
+34
+00:03:18,990 --> 00:03:22,410
+<i>Era in bassa stagione e, a quel tempo
+del tutto fuori moda,</i>
+
+35
+00:03:22,494 --> 00:03:24,537
+<i>aveva già iniziato il suo declino</i>
+
+36
+00:03:24,662 --> 00:03:28,667
+<i>verso lo squallore e
+l'eventuale demolizione.</i>
+
+37
+00:03:28,833 --> 00:03:30,585
+<i>Con gli altri pochi ospiti</i>
+
+38
+00:03:30,794 --> 00:03:33,046
+<i>arrivammo presto a riconoscerci
+gli uni con gli altri</i>
+
+39
+00:03:33,421 --> 00:03:37,509
+<i>come gli unici abitanti del
+vasto edificio,</i>
+
+40
+00:03:37,676 --> 00:03:40,679
+<i>anche se non ricordo ci
+fosse mai altra confidenza</i>
+
+41
+00:03:40,845 --> 00:03:43,723
+<i>aldilà degli educati cenni del capo
+che ci scambiavamo incontrandoci</i>
+
+42
+00:03:43,807 --> 00:03:44,808
+<i>nel palmeto</i>
+
+43
+00:03:44,974 --> 00:03:46,851
+<i>nei bagni arabi</i>
+
+44
+00:03:47,018 --> 00:03:49,354
+<i>e a bordo della funicolare.</i>
+
+45
+00:03:49,521 --> 00:03:52,440
+<i>Eravamo un gruppo molto
+riservato, sembrava,</i>
+
+46
+00:03:52,565 --> 00:03:54,943
+<i>E solitario, senza eccezione.</i>
+
+47
+00:03:59,406 --> 00:04:02,033
+<i>Forse proprio a causa di
+questo silenzio generale,</i>
+
+48
+00:04:02,409 --> 00:04:05,036
+<i>stabilii una cordiale familiarità</i>
+
+49
+00:04:05,412 --> 00:04:07,414
+<i>con il concierge dell'hotel,
+un occidentale</i>
+
+50
+00:04:07,580 --> 00:04:09,582
+<i>Noto come Monsieur Jean,</i>
+
+51
+00:04:09,749 --> 00:04:14,838
+<i>di cui mi colpiva la pigrizia ma, allo
+stesso tempo la gran cortesia.</i>
+
+52
+00:04:15,046 --> 00:04:17,424
+<i>Sospetto non fosse affatto
+ben pagato.</i>
+
+53
+00:04:17,549 --> 00:04:18,883
+<i>Ad ogni modo, una sera,</i>
+
+54
+00:04:19,050 --> 00:04:21,636
+<i>mentre, com'era diventata
+mia abitudine,</i>
+
+55
+00:04:21,803 --> 00:04:26,057
+<i>conversavo con Monsieur Jean, notai
+una nuova presenza nel gruppo.</i>
+
+56
+00:04:26,433 --> 00:04:28,727
+<i>un signore minuto e anziano,
+vestito elegantemente,</i>
+
+57
+00:04:28,893 --> 00:04:31,813
+<i>con un viso eccezionalmente
+intelligente e vivace</i>
+
+58
+00:04:32,022 --> 00:04:35,025
+<i>e una percepibile aura di tristezza.</i>
+
+59
+00:04:35,400 --> 00:04:38,695
+<i>Sedeva da solo, come tutti noi
+ma devo dire</i>
+
+60
+00:04:38,862 --> 00:04:43,491
+<i>che era l'unico che sembrasse
+davvero profondamente solo.</i>
+
+61
+00:04:43,658 --> 00:04:46,411
+<i>Che era poi anche un sintomo
+della mia condizione medica.</i>
+
+62
+00:04:46,578 --> 00:04:48,496
+Chi è quell'anziano signore?
+
+63
+00:04:48,621 --> 00:04:50,081
+<i>chiesi a Monsieur Jean.</i>
+
+64
+00:04:50,457 --> 00:04:52,959
+<i>Con mio stupore, fu
+colto alla sprovvista.</i>
+
+65
+00:04:53,126 --> 00:04:54,544
+- Non lo sa?
+<i>- Chiese.</i>
+
+66
+00:04:54,711 --> 00:04:56,504
+Non lo riconosce?
+
+67
+00:04:56,671 --> 00:04:57,964
+<i>In effetti mi sembrava familiare.</i>
+
+68
+00:04:58,131 --> 00:05:01,885
+È Mr. Moustafa in persona.
+È arrivato questa mattina.
+
+69
+00:05:02,927 --> 00:05:04,471
+<i>Questo nome sarà senza
+dubbio familiare</i>
+
+70
+00:05:04,554 --> 00:05:07,140
+<i>ai più attempati tra voi.</i>
+
+71
+00:05:09,559 --> 00:05:13,897
+<i>Mr. Zero Moustafa era
+l'uomo più ricco della Zubrowka</i>
+
+72
+00:05:16,024 --> 00:05:18,985
+<i>nonché il proprietario
+del Grand Budapest.</i>
+
+73
+00:05:20,612 --> 00:05:22,530
+Viene spesso e soggiorna qui
+per una settimana o più,
+
+74
+00:05:22,655 --> 00:05:24,741
+tre volte all'anno,
+mai in alta stagione.
+
+75
+00:05:24,949 --> 00:05:27,202
+<i>Monsieur Jean mi fece segno
+e io mi avvicinai.</i>
+
+76
+00:05:27,577 --> 00:05:28,620
+Le dirò un segreto.
+
+77
+00:05:28,787 --> 00:05:31,039
+Prende sempre una stanza singola
+e senza bagno
+
+78
+00:05:31,206 --> 00:05:32,999
+in un angolino dell'ultimo piano.
+
+79
+00:05:33,166 --> 00:05:35,085
+È più piccola dell'ascensore
+di servizio!
+
+80
+00:05:35,502 --> 00:05:36,753
+<i>Era risaputo,</i>
+
+81
+00:05:36,961 --> 00:05:39,547
+<i>Zero Moustafa aveva comprato
+e risieduto</i>
+
+82
+00:05:39,714 --> 00:05:42,634
+<i>in alcuni dei più sontuosi castelli
+e palazzi del continente.</i>
+
+83
+00:05:42,884 --> 00:05:46,054
+<i>Eppure qui, ne suo
+hotel semivuoto,</i>
+
+84
+00:05:46,221 --> 00:05:48,973
+<i>occupava un alloggio da sguattero?</i>
+
+85
+00:05:49,224 --> 00:05:52,185
+<i>In quel momento, il sipario s'aprì
+su di un dramma domestico...</i>
+
+86
+00:05:52,560 --> 00:05:53,687
+Merda.
+
+87
+00:05:53,853 --> 00:05:56,773
+<i>che richiese l'immediata e
+totale attenzione</i>
+
+88
+00:05:56,940 --> 00:05:58,942
+<i>di Monsieur jean,</i>
+
+89
+00:06:00,694 --> 00:06:03,071
+<i>ma che, in sincerità, non catturò
+la mia a lungo.</i>
+
+90
+00:06:10,537 --> 00:06:11,538
+<i>Ad ogni modo,</i>
+
+91
+00:06:11,705 --> 00:06:14,225
+<i>questa intromissione nella storia
+dello strano vegliardo</i>
+
+92
+00:06:14,541 --> 00:06:16,876
+<i>Mi aveva lasciato,
+come si suol dire,</i>
+
+93
+00:06:17,043 --> 00:06:19,129
+<i>"gespannt wie ein Flitzebogen"</i>
+
+94
+00:06:19,546 --> 00:06:21,798
+<i>ossia sulle spine,</i>
+
+95
+00:06:21,923 --> 00:06:24,843
+<i>e sulle spine rimasi per tutta
+la mattinata successiva, finché,</i>
+
+96
+00:06:25,010 --> 00:06:28,805
+<i>nel suo solito modo d'agire misterioso
+e del tutto infallibile,</i>
+
+97
+00:06:28,972 --> 00:06:32,892
+<i>il fato, ancora una volta,
+si mosse al mio posto.</i>
+
+98
+00:06:36,813 --> 00:06:38,815
+Ammiro il suo lavoro.
+
+99
+00:06:41,943 --> 00:06:43,528
+Mi scusi?
+
+100
+00:06:45,113 --> 00:06:49,200
+Ho detto che conosco e
+ammiro il suo splendido lavoro.
+
+101
+00:06:50,243 --> 00:06:52,078
+Grazie infinite, signore.
+
+102
+00:06:52,203 --> 00:06:54,622
+Monsieur Jean ha ritenuto di
+scambiare una parola o due
+
+103
+00:06:54,706 --> 00:06:58,293
+sull'anziano proprietario di
+questo edificio?
+
+104
+00:06:58,877 --> 00:07:03,048
+Devo confessare di avergli
+chiesto di lei.
+
+105
+00:07:03,214 --> 00:07:05,884
+Monsieur Jean è assolutamente
+capace, ovviamente,
+
+106
+00:07:06,051 --> 00:07:07,844
+ma non si può dire che sia
+un concierge di prima classe,
+
+107
+00:07:08,011 --> 00:07:10,722
+né, in onestà, neppure di seconda.
+
+108
+00:07:10,805 --> 00:07:12,015
+Ma va così.
+
+109
+00:07:12,932 --> 00:07:14,768
+I tempi sono cambiati.
+
+110
+00:07:17,228 --> 00:07:20,982
+I bagni termali sono davvero
+magnifici.
+
+111
+00:07:21,107 --> 00:07:24,527
+Lo erano originariamente.
+Ovviamente non ho potuto mantenerli.
+
+112
+00:07:24,694 --> 00:07:26,279
+Troppo decadenti per il gusto moderno.
+
+113
+00:07:26,654 --> 00:07:31,201
+Ma la amo ugualmente,
+queste incantevole antica rovina.
+
+114
+00:07:32,285 --> 00:07:34,913
+Come mai ha comprato l'Hotel,
+se posso chiedere?
+
+115
+00:07:35,080 --> 00:07:37,082
+Il Grand Budapest.
+
+116
+00:07:46,883 --> 00:07:47,884
+Non l'ho fatto.
+
+117
+00:07:57,602 --> 00:07:59,270
+Se non ha chiesto solo
+per educazione,
+
+118
+00:07:59,646 --> 00:08:02,232
+e la prego di dirmelo se
+è questo il caso,
+
+119
+00:08:02,357 --> 00:08:05,360
+ma se questa storia
+le interessa sul serio,
+
+120
+00:08:05,735 --> 00:08:07,987
+la invito a cenare con me stasera,
+
+121
+00:08:08,238 --> 00:08:11,991
+e sarà mio piacere e onore
+raccontarle
+
+122
+00:08:12,158 --> 00:08:15,704
+"la mia storia". Così com'è.
+
+123
+00:08:21,918 --> 00:08:23,837
+Due anatre arrosto con olive.
+
+124
+00:08:24,004 --> 00:08:26,297
+Coniglio, insalata?
+
+125
+00:08:26,673 --> 00:08:29,259
+Poully-Jouvet del '52 e
+un quarto di bottiglia di champagne brut.
+
+126
+00:08:30,635 --> 00:08:33,722
+Questo dovrebbe darci
+tempo bastevole
+
+127
+00:08:33,888 --> 00:08:36,141
+- se mi sbrigo ad iniziare.
+- Certamente.
+
+128
+00:08:56,036 --> 00:09:01,416
+Bene, inizia tutto con il predecessore
+del nostro comune amico.
+
+129
+00:09:01,791 --> 00:09:04,961
+L'amato primo concierge
+del Grand Budapest.
+
+130
+00:09:06,254 --> 00:09:08,340
+Inizia tutto con...
+
+131
+00:09:30,737 --> 00:09:32,978
+- Il tavolo vicino alla finestra.
+- Sì, Monsieur Gustave.
+
+132
+00:09:33,073 --> 00:09:35,513
+- Il vassoio sul tavolo.
+- Subito, Monsieur Gustave.
+
+133
+00:09:35,825 --> 00:09:38,078
+Lì. Quelli sono stati
+spazzolati?
+
+134
+00:09:38,244 --> 00:09:40,080
+- Certo, Monsieur Gustave.
+- Nelle cappelliere.
+
+135
+00:09:40,163 --> 00:09:42,374
+- Quello è di Oberstdorf & Co.?
+- Credo di sì, Monsieur Gustave.
+
+136
+00:09:42,457 --> 00:09:44,292
+- Nel secondo baule. Chi ha i biglietti?
+- Io, Monsieur Gustave.
+
+137
+00:09:44,376 --> 00:09:46,378
+Dammeli.
+
+138
+00:09:47,420 --> 00:09:49,714
+Sono in ordine.
+Aspetta nell'angolo.
+
+139
+00:09:57,889 --> 00:10:00,183
+- Non parto più.
+- Come, scusa?
+
+140
+00:10:00,350 --> 00:10:02,352
+- Non parto più.
+- Perché no?
+
+141
+00:10:02,727 --> 00:10:04,479
+- Ho paura.
+- E di cosa?
+
+142
+00:10:04,813 --> 00:10:07,014
+Ho paura che questa possa essere
+l'ultima volta che ci vediamo.
+
+143
+00:10:07,107 --> 00:10:08,733
+Perché mai dovrebbe essere così?
+
+144
+00:10:08,900 --> 00:10:11,069
+Beh, non so spiegarlo a parole,
+ma lo sento.
+
+145
+00:10:11,236 --> 00:10:13,917
+Bontà divina, non c'è nessuna ragione
+per partire se sei così...
+
+146
+00:10:14,030 --> 00:10:17,075
+- Vieni con me.
+- In quel cesso di Lutz?
+
+147
+00:10:17,242 --> 00:10:19,327
+- Ti prego.
+- Dammi la mano.
+
+148
+00:10:21,329 --> 00:10:24,374
+Non ha nulla da temere. Sei sempre
+un po' ansiosa prima di partire.
+
+149
+00:10:24,457 --> 00:10:27,377
+Ammetto che questa volta
+lo sei più del solito.
+
+150
+00:10:27,460 --> 00:10:30,422
+Ma, sinceramente... Oh, santo cielo.
+Cosa hai fatto alle tue unghie?
+
+151
+00:10:30,505 --> 00:10:32,382
+- Come, scusa?
+- Questo smalto orripilante.
+
+152
+00:10:32,465 --> 00:10:34,465
+- Il colore è completamente sbagliato.
+- Non ti piace?
+
+153
+00:10:34,509 --> 00:10:37,429
+Non è che non mi piaccia,
+mi repelle fisicamente.
+
+154
+00:10:38,430 --> 00:10:41,891
+- Forse so cosa può rilassarti.
+- Cosa? No, non recitare.
+
+155
+00:10:42,058 --> 00:10:44,310
+- Shh, ascolta le parole.
+- Ti prego, non adesso.
+
+156
+00:10:44,936 --> 00:10:48,356
+"Ramingo, una notte in un nobile luco
+di cineree fronde di pini vetusti,
+
+157
+00:10:48,523 --> 00:10:52,861
+m'imbattei in una gelida lapide,
+madida di pioggia, diafana,
+
+158
+00:10:53,028 --> 00:10:54,821
+l'iscrizione da tempo erosa,
+
+159
+00:10:55,030 --> 00:10:57,365
+sembrava quasi leggersi nelle
+nubilose fenditure..."
+
+160
+00:10:58,450 --> 00:11:00,035
+Accenderesti un cero per me?
+
+161
+00:11:01,327 --> 00:11:04,956
+- Nella sagrestia di Santa Maria?
+- Me ne occuperò personalmente.
+
+162
+00:11:05,540 --> 00:11:09,085
+Ricorda, sarò sempre al tuo fianco.
+
+163
+00:11:10,045 --> 00:11:12,839
+- Ti amo.
+- Ti amo.
+
+164
+00:11:24,392 --> 00:11:26,895
+Non è semplice guadagnarsi la
+devozione di una donna così
+
+165
+00:11:27,062 --> 00:11:29,064
+per 19 stagioni consecutive.
+
+166
+00:11:30,357 --> 00:11:33,151
+- Sì, signore.
+- Mi è davvero affezionata, sai.
+
+167
+00:11:33,318 --> 00:11:34,319
+Sì, signore.
+
+168
+00:11:34,486 --> 00:11:36,404
+Ma non l'avevo mai vista
+così prima d'ora.
+
+169
+00:11:36,571 --> 00:11:37,572
+No, signore.
+
+170
+00:11:37,947 --> 00:11:40,158
+Tremolava come un cane stitico.
+
+171
+00:11:41,493 --> 00:11:42,494
+Verissimo.
+
+172
+00:11:42,827 --> 00:11:45,163
+Corri alla cattedrale di
+Santa Maria in Brucknerplatz.
+
+173
+00:11:45,330 --> 00:11:46,998
+Compra una candela semplice,
+media lunghezza
+
+174
+00:11:47,165 --> 00:11:48,645
+E prendi 4 Kubeck di resto.
+
+175
+00:11:48,917 --> 00:11:50,637
+Accendila nella sagrestia,
+recita un breve rosario
+
+176
+00:11:50,919 --> 00:11:53,039
+poi va' da Mendl
+e prendimi una courtesan au chocolat.
+
+177
+00:11:53,171 --> 00:11:55,771
+Se ti avanzano monete, dalle
+al ragazzino lustrascarpe storpio.
+
+178
+00:11:57,550 --> 00:11:59,552
+- Subito, signore.
+- Aspetta.
+
+179
+00:12:01,930 --> 00:12:05,475
+- Chi sei?
+- Sono Zero, signore. Il nuovo Lobby Boy.
+
+180
+00:12:05,850 --> 00:12:07,018
+- Zero, hai detto?
+- Sì, signore.
+
+181
+00:12:07,102 --> 00:12:09,582
+Non ti ho mai visto né sentito
+nominare. Chi ti ha assunto?
+
+182
+00:12:09,604 --> 00:12:12,148
+- Mr. Mosher, signore.
+- Mr. Mosher!
+
+183
+00:12:13,400 --> 00:12:14,442
+Sì, Monsieur Gustave?
+
+184
+00:12:14,609 --> 00:12:17,278
+Mi pare di capire che abbiate
+assunto clandestinamente questo giovane
+
+185
+00:12:17,362 --> 00:12:18,613
+nel ruolo di Lobby Boy.
+
+186
+00:12:18,947 --> 00:12:22,409
+È stato assunto per un periodo di prova,
+in attesa del suo consenso.
+
+187
+00:12:24,035 --> 00:12:26,329
+Forse, sì.
+Grazie, Mr. Mosher.
+
+188
+00:12:26,454 --> 00:12:28,915
+È un piacere,
+Monsieur Gustave.
+
+189
+00:12:29,374 --> 00:12:31,626
+Ora sarai sottoposto
+a colloquio ufficiale.
+
+190
+00:12:31,960 --> 00:12:34,087
+Devo prima andare ad accendere
+quel cero, signore?
+
+191
+00:12:34,295 --> 00:12:35,505
+Cosa? No.
+
+192
+00:12:39,300 --> 00:12:40,343
+Esperienza?
+
+193
+00:12:40,468 --> 00:12:42,554
+Hotel Kinski, garzone,
+sei mesi.
+
+194
+00:12:42,971 --> 00:12:45,098
+Hotel Berlitz, inserviente,
+tre mesi.
+
+195
+00:12:45,265 --> 00:12:48,059
+- Prima ancora disincrostavo...
+- Esperienza: zero.
+
+196
+00:12:48,143 --> 00:12:50,228
+- Grazie ancora, Monsieur Gustave.
+- Raddrizza quel berretto, Anatole.
+
+197
+00:12:50,311 --> 00:12:52,188
+- Il piacere è mio, Herr Schneider.
+- La cinghia è rotta.
+
+198
+00:12:52,272 --> 00:12:54,149
+- Questi sono inaccettabili.
+- Sono pienamente d'accordo.
+
+199
+00:12:54,232 --> 00:12:56,985
+- Educazione?
+- Ho studiato lettura e scrittura.
+
+200
+00:12:57,152 --> 00:12:59,362
+Ho iniziato le scuole elementari.
+Ho quasi...
+
+201
+00:12:59,529 --> 00:13:01,656
+- Educazione: zero.
+- Stavolta è esploso.
+
+202
+00:13:01,990 --> 00:13:04,075
+Buon giorno, Cicero.
+Chiama un dannato idraulico!
+
+203
+00:13:04,159 --> 00:13:06,453
+- Oggi pomeriggio, Monsieur Gustave?
+- Senz'altro, Frau Liebling-
+
+204
+00:13:06,536 --> 00:13:08,204
+- Cosa diavolo è questo?
+- Non ora.
+
+205
+00:13:08,329 --> 00:13:10,331
+Famiglia?
+
+206
+00:13:12,667 --> 00:13:14,544
+Zero.
+
+207
+00:13:14,919 --> 00:13:16,921
+Sesto, Igor.
+
+208
+00:13:24,262 --> 00:13:26,139
+Perché vuoi essere un Lobby Boy?
+
+209
+00:13:28,141 --> 00:13:32,520
+Beh, chi non vorrebbe esserlo
+al Grand Budapest, signore?
+
+210
+00:13:32,687 --> 00:13:34,689
+È un'istituzione.
+
+211
+00:13:37,567 --> 00:13:39,235
+Molto bene.
+
+212
+00:13:54,459 --> 00:13:56,628
+- Mille Klubeck.
+- Santo cielo.
+
+213
+00:13:58,046 --> 00:14:00,632
+È mai stato un Lobby Boy, signore?
+
+214
+00:14:01,049 --> 00:14:02,050
+Cosa credi?
+
+215
+00:14:02,217 --> 00:14:04,135
+Beh, immagino che debba aver
+iniziato in qualche modo...
+
+216
+00:14:04,302 --> 00:14:06,103
+- Vai ad accendere quel dannato cero.
+- Sì, signore.
+
+217
+00:14:11,226 --> 00:14:13,228
+<i>E così, iniziò la mia vita.</i>
+
+218
+00:14:16,064 --> 00:14:17,315
+<i>aspirante Junior Lobby Boy,</i>
+
+219
+00:14:17,482 --> 00:14:19,025
+<i>Grand Budapest Hotel,</i>
+
+220
+00:14:19,192 --> 00:14:22,320
+<i>sotto il severo comando di
+Monsieur Gustave H.</i>
+
+221
+00:14:22,487 --> 00:14:25,573
+<i>Divenni il suo pupillo, e lui era
+il mio tutore e supervisore.</i>
+
+222
+00:14:25,740 --> 00:14:27,492
+<i>Cos'è un Lobby Boy?</i>
+
+223
+00:14:27,701 --> 00:14:31,204
+<i>Un Lobby Boy è completamente invisibile,
+ma sempre sott'occhio.</i>
+
+224
+00:14:31,413 --> 00:14:33,415
+<i>Un Lobby Boy ricorda cosa
+i clienti odiano.</i>
+
+225
+00:14:33,581 --> 00:14:35,417
+<i>Un Lobby Boy anticipa
+i bisogni del cliente</i>
+
+226
+00:14:35,583 --> 00:14:37,669
+<i>prima ancora che ne abbia bisogno.</i>
+
+227
+00:14:38,003 --> 00:14:41,089
+<i>Un Lobby Boy è, soprattutto,
+discreto all'inverosimile.</i>
+
+228
+00:14:41,256 --> 00:14:43,299
+I nostri ospiti sanno che
+i loro segreti più profondi,
+
+229
+00:14:43,383 --> 00:14:45,010
+alcuni dei quali, francamente,
+piuttosto sconvenienti,
+
+230
+00:14:45,093 --> 00:14:46,761
+li porteremo con noi
+nella tomba.
+
+231
+00:14:47,137 --> 00:14:49,639
+- Quindi tieni la bocca chiusa, Zero.
+- Sì, signore.
+
+232
+00:14:51,766 --> 00:14:53,727
+È tutto per ora.
+
+233
+00:14:54,102 --> 00:14:56,021
+<i>Cominciai a capire che
+molte delle ospiti</i>
+
+234
+00:14:56,187 --> 00:14:59,774
+<i>più stimate e distinte dell'hotel
+venivano per lui.</i>
+
+235
+00:15:00,108 --> 00:15:03,028
+<i>Sembrava essere una parte
+essenziale dei suoi doveri,</i>
+
+236
+00:15:03,236 --> 00:15:05,447
+<i>Ma io credo fosse anche
+un piacere.</i>
+
+237
+00:15:07,490 --> 00:15:09,451
+<i>I requisiti erano
+sempre gli stessi.</i>
+
+238
+00:15:09,617 --> 00:15:12,203
+<i>Dovevano essere ricche,</i>
+
+239
+00:15:12,370 --> 00:15:13,455
+<i>decrepite,</i>
+
+240
+00:15:13,621 --> 00:15:14,748
+<i>insicure,</i>
+
+241
+00:15:15,123 --> 00:15:16,166
+<i>vanesie,</i>
+
+242
+00:15:16,291 --> 00:15:17,500
+<i>superficiali,</i>
+
+243
+00:15:17,667 --> 00:15:18,752
+<i>bionde,</i>
+
+244
+00:15:19,127 --> 00:15:20,545
+<i>bisognose di attenzioni.</i>
+
+245
+00:15:21,671 --> 00:15:23,673
+Perché bionde?
+
+246
+00:15:25,800 --> 00:15:27,218
+Perché lo erano tutte.
+
+247
+00:15:27,469 --> 00:15:28,720
+<i>Era, peraltro,</i>
+
+248
+00:15:29,054 --> 00:15:32,515
+<i>l'uomo più generosamente profumato
+che avessi mai incontrato.</i>
+
+249
+00:15:32,682 --> 00:15:35,560
+<i>la fragranza annunciava il suo
+arrivo da molto lontano.</i>
+
+250
+00:15:37,145 --> 00:15:39,731
+<i>e persisteva per lunghi minuti
+quando se ne andava.</i>
+
+251
+00:15:41,649 --> 00:15:44,486
+<i>Lavoravo sei giorni alla settimana,
+più mezza giornata la Domenica,</i>
+
+252
+00:15:44,652 --> 00:15:46,863
+<i>Dalle 5 del mattino a mezzanotte.</i>
+
+253
+00:15:48,156 --> 00:15:50,617
+<i>I nostri pasti erano scarsi ma
+frequenti, per resistere meglio.</i>
+
+254
+00:15:50,825 --> 00:15:53,661
+<i>Due colazioni, due pranzi
+e un pasto notturno.</i>
+
+255
+00:15:54,788 --> 00:15:58,208
+<i>Monsieur Gustave teneva anche
+un discorso quotidiano.</i>
+
+256
+00:15:58,333 --> 00:16:01,419
+La maleducazione è mera
+espressione della paura.
+
+257
+00:16:01,586 --> 00:16:03,755
+Le persone temono di non
+ottenere ciò che vogliono.
+
+258
+00:16:04,130 --> 00:16:07,550
+La persona più sgradevole e orribile
+ha solo bisogno di essere amata,
+
+259
+00:16:07,676 --> 00:16:10,220
+e vi si aprirà come un fiore.
+
+260
+00:16:10,387 --> 00:16:11,846
+Mi sovviene un verso:
+
+261
+00:16:12,222 --> 00:16:14,557
+"Il pennello del dipintore baciò
+quella giovanissimo niffo
+
+262
+00:16:14,724 --> 00:16:16,685
+"con le sue agili setole
+
+263
+00:16:16,851 --> 00:16:20,772
+"e col suo belletto puniceo,
+ridestò le sue spente gote."
+
+264
+00:16:21,147 --> 00:16:24,192
+<i>Consumava la sua cena
+da solo nella sua stanza.</i>
+
+265
+00:16:29,739 --> 00:16:33,493
+<i>L'identità del proprietario dell'hotel
+era ignota a noi tutti.</i>
+
+266
+00:16:33,660 --> 00:16:37,497
+<i>Ogni mese giungeva il suo emissario,
+noto come Vice Kovacs,</i>
+
+267
+00:16:37,664 --> 00:16:39,541
+<i>a controllare i registri e
+comunicare messaggi</i>
+
+268
+00:16:39,708 --> 00:16:42,293
+<i>per conto del misterioso
+proprietario.</i>
+
+269
+00:16:42,460 --> 00:16:45,422
+<i>In queste occasioni, Monsieur Gustave
+e il nostro responsabile commerciale,</i>
+
+270
+00:16:45,588 --> 00:16:50,218
+<i>Herr Becker, lo incontravano
+privatamente sopra la Reception.</i>
+
+271
+00:17:01,855 --> 00:17:04,441
+<i>Fu allora che incontrai Agatha,</i>
+
+272
+00:17:22,584 --> 00:17:24,586
+<i>Ma non ne parleremo.</i>
+
+273
+00:18:15,512 --> 00:18:16,552
+- Cosa vuoi?
+- Guardi.
+
+274
+00:18:21,601 --> 00:18:22,727
+Buon Dio.
+
+275
+00:18:22,977 --> 00:18:24,312
+Sono addolorato, signore.
+
+276
+00:18:24,479 --> 00:18:26,481
+- Dobbiamo andare da lei.
+- Dobbiamo?
+
+277
+00:18:26,648 --> 00:18:30,276
+Tout de suite. Lei ha bisogno di me, e io ho
+bisogno di te per le borse et cetera.
+
+278
+00:18:32,237 --> 00:18:33,822
+- In quanto puoi sbrigarti?
+- 5 minuti.
+
+279
+00:18:33,988 --> 00:18:35,988
+Fallo. E porta una bottiglia di
+Pouilly-Jouvet del '26
+
+280
+00:18:36,032 --> 00:18:37,367
+in un secchiello di ghiaccio
+con due bicchieri
+
+281
+00:18:37,450 --> 00:18:40,412
+Così non ci toccherà bere il piscio di gatto
+che servono nella carrozza ristorante.
+
+282
+00:18:49,462 --> 00:18:51,548
+È tutta colpa mia.
+
+283
+00:18:52,382 --> 00:18:55,635
+Ha provato a dirmi della sua
+premonizione. Non l'ho ascoltata.
+
+284
+00:18:55,760 --> 00:18:57,429
+L'intera Lutz sarà in lutto,
+
+285
+00:18:57,512 --> 00:18:59,514
+tranne i suoi falsi, demoniaci figli
+
+286
+00:18:59,597 --> 00:19:01,725
+che lei odiava e non sopportava
+di baciare sulla guancia.
+
+287
+00:19:01,891 --> 00:19:04,310
+Staranno ballando come zingari.
+
+288
+00:19:07,355 --> 00:19:09,399
+Niente ha davvero senso,
+nella vita,
+
+289
+00:19:09,482 --> 00:19:11,401
+poiché può finire tutto
+da un momento all'altro...
+
+290
+00:19:11,484 --> 00:19:14,446
+E, immediatamente dopo,
+sopraggiunge il rigor mortis.
+
+291
+00:19:14,612 --> 00:19:17,490
+Oh, i migliori muoiono sempre giovani.
+
+292
+00:19:17,657 --> 00:19:20,618
+Con un po' di fortuna, ha lasciato
+qualche Klubeck al tuo vecchio amico,
+
+293
+00:19:20,744 --> 00:19:23,997
+ma non si sa mai finché l'inchiostro
+sul certificato di morte non è asciutto.
+
+294
+00:19:25,582 --> 00:19:27,459
+Era una bomba a letto, tra l'altro.
+
+295
+00:19:29,502 --> 00:19:31,755
+Aveva 84 anni, Monsieur Gustave.
+
+296
+00:19:31,921 --> 00:19:33,506
+Ne ho avute di più vecchie.
+
+297
+00:19:33,631 --> 00:19:35,342
+Da giovani, puntano tutti
+al filetto e alla lombata,
+
+298
+00:19:35,508 --> 00:19:38,511
+ma col passar degli anni bisogna spostarsi
+sui tagli meno pregiati,
+
+299
+00:19:38,636 --> 00:19:40,889
+cosa che a me sta bene,
+perché li preferiscono.
+
+300
+00:19:41,056 --> 00:19:43,475
+Sono più saporiti, o così dicono.
+
+301
+00:19:46,770 --> 00:19:48,772
+Perché siamo fermi in
+un campo d'orzo?
+
+302
+00:20:03,953 --> 00:20:05,705
+Ehi, salve, gente.
+
+303
+00:20:05,955 --> 00:20:07,415
+Documenti.
+
+304
+00:20:07,582 --> 00:20:09,584
+Con piacere.
+
+305
+00:20:13,630 --> 00:20:15,548
+La foto non mi fa onore, temo.
+
+306
+00:20:15,715 --> 00:20:17,425
+Ero considerato un uomo
+molto bello.
+
+307
+00:20:18,677 --> 00:20:20,929
+Per cosa sta la "F"?
+Fritz? Franz?
+
+308
+00:20:21,137 --> 00:20:23,807
+- Franz.
+- Lo sapevo!
+
+309
+00:20:25,100 --> 00:20:27,018
+Sta facendo una smorfia.
+
+310
+00:20:27,394 --> 00:20:30,814
+È un permesso di soggiorno con status
+di impiegato di terza fascia, mio caro Franz.
+
+311
+00:20:30,980 --> 00:20:33,066
+È con me.
+
+312
+00:20:33,942 --> 00:20:34,984
+Esca, per favore.
+
+313
+00:20:36,569 --> 00:20:39,531
+Aspetti un minuto. Sta' seduto, Zero.
+I suoi visti sono in ordine.
+
+314
+00:20:39,698 --> 00:20:42,701
+Li ho controllati personalmente con il
+Bureau del Lavoro e della Servitù.
+
+315
+00:20:42,867 --> 00:20:44,744
+Non può arrestarlo solo perché
+è un dannato immigrato.
+
+316
+00:20:44,828 --> 00:20:46,955
+Non ha fatto nulla.
+
+317
+00:20:52,669 --> 00:20:54,587
+Si fermi, dannazione!
+
+318
+00:20:54,838 --> 00:20:56,881
+Non importa, Monsieur Gustave!
+Li lasci fare!
+
+319
+00:20:57,007 --> 00:20:58,717
+Ow! Che male!
+
+320
+00:21:01,594 --> 00:21:04,431
+Dannati, sporchi, schifosi
+stronzi fascisti!
+
+321
+00:21:04,597 --> 00:21:06,850
+Tenete giù le mani
+dal mio Lobby Boy!
+
+322
+00:21:18,737 --> 00:21:19,988
+Qual è il problema?
+
+323
+00:21:20,155 --> 00:21:21,406
+Tutto ciò è vergognoso.
+
+324
+00:21:21,489 --> 00:21:24,170
+Questo giovane lavora per me
+al Grand Budapest Hotel a Nebelsbad.
+
+325
+00:21:26,036 --> 00:21:27,495
+Monsieur Gustave?
+
+326
+00:21:30,165 --> 00:21:32,167
+Il mio nome è Henckels.
+
+327
+00:21:33,626 --> 00:21:36,671
+Sono il figlio del Dottor e della
+Signora Wolfgang Henckels-Bergersdofer.
+
+328
+00:21:36,880 --> 00:21:38,631
+Si ricorda di me?
+
+329
+00:21:39,632 --> 00:21:43,178
+So perfettamente chi sei.
+È incredibile. Sei il piccolo Albert.
+
+330
+00:21:43,511 --> 00:21:45,180
+Sono terribilmente imbarazzato.
+Liberateli.
+
+331
+00:21:46,056 --> 00:21:48,141
+Liberateli.
+
+332
+00:21:55,023 --> 00:21:56,232
+Il suo collega è apolide.
+
+333
+00:21:56,608 --> 00:21:58,849
+Deve far domanda per una revisione
+del Permesso Speciale di Transito,
+
+334
+00:21:58,943 --> 00:22:02,197
+che, a questo punto, potrebbe
+essere molto difficile da ottenere.
+
+335
+00:22:02,530 --> 00:22:03,531
+Prenda questo.
+
+336
+00:22:04,949 --> 00:22:07,952
+È a tempo determinato, ma temo sia
+il massimo che possa fare.
+
+337
+00:22:08,036 --> 00:22:10,163
+Come sta la sua splendida madre?
+
+338
+00:22:10,538 --> 00:22:12,457
+- Molto bene, la ringrazio.
+- La adoro.
+
+339
+00:22:12,540 --> 00:22:14,793
+- La saluti calorosamente.
+- Lo farò.
+
+340
+00:22:15,710 --> 00:22:19,589
+Il suo compagno di viaggio è stato molto
+gentile come me quando ero un bimbo triste.
+
+341
+00:22:20,632 --> 00:22:22,967
+I miei uomini ed io ci scusiamo per
+avervi disturbati.
+
+342
+00:22:23,176 --> 00:22:25,178
+Le chiedo perdono, signore.
+
+343
+00:22:41,653 --> 00:22:44,823
+Vedi? Ci sono ancora
+fiochi barlumi di civiltà
+
+344
+00:22:44,989 --> 00:22:48,743
+in questo mattatoio selvaggio che
+chiamavamo umanità.
+
+345
+00:22:48,952 --> 00:22:53,164
+È esattamente quello che noi rappresentiamo
+nel nostro umile, insignificante...
+
+346
+00:22:54,749 --> 00:22:56,751
+Oh, ma vaffanculo.
+
+347
+00:23:28,033 --> 00:23:30,869
+Dov'è Clotilde?
+Portatemi da lei.
+
+348
+00:24:06,321 --> 00:24:08,323
+Sei così bella, mia cara.
+Davvero.
+
+349
+00:24:08,698 --> 00:24:09,949
+Hanno fatto un ottimo lavoro.
+
+350
+00:24:10,158 --> 00:24:12,660
+Non so che prodotti hanno usato
+lì all'obitorio,
+
+351
+00:24:12,827 --> 00:24:14,079
+ma ne voglio un po' anch'io.
+
+352
+00:24:14,245 --> 00:24:16,664
+In sincerità, stai meglio di quanto non
+sia stata negli ultimi anni.
+
+353
+00:24:16,790 --> 00:24:18,792
+Sembri quasi viva.
+
+354
+00:24:24,339 --> 00:24:28,218
+Oh, l'hai cambiato alla fine.
+È perfetto.
+
+355
+00:24:28,385 --> 00:24:30,220
+- Clotilde?
+- Oui, Monsieur Gustave?
+
+356
+00:24:30,345 --> 00:24:32,389
+Un bicchiere di acqua fredda,
+senza ghiaccio, per piacere
+
+357
+00:24:39,771 --> 00:24:41,356
+Ah. Va bene.
+
+358
+00:24:41,731 --> 00:24:43,733
+Non ci metterò molto, cara.
+
+359
+00:24:44,943 --> 00:24:46,986
+<i>fummo scortati attraverso una
+porta di panno verde,</i>
+
+360
+00:24:47,112 --> 00:24:50,407
+<i>in uno stretto corridoio di servizio
+e nella dispensa.</i>
+
+361
+00:24:53,326 --> 00:24:55,412
+<i>Un istante dopo, si aprì
+la porta della cucina</i>
+
+362
+00:24:55,704 --> 00:24:58,957
+<i>e un domestico minuto vestito di bianco
+sobbalzò vistosamente.</i>
+
+363
+00:24:59,833 --> 00:25:02,085
+<i>Non ho mai dimenticato
+l'espressione sul suo volto.</i>
+
+364
+00:25:02,961 --> 00:25:04,963
+Cosa diavolo succede?
+
+365
+00:25:05,672 --> 00:25:09,259
+<i>Non avevo mai messo piede in una
+casa come quella nella mia vita.</i>
+
+366
+00:25:10,802 --> 00:25:13,242
+<i>Capii molto poco degli
+eventi successivi.</i>
+
+367
+00:25:13,388 --> 00:25:16,349
+<i>Ma, ad un certo punto capii che,</i>
+
+368
+00:25:16,725 --> 00:25:20,145
+<i>quando c'è in ballo il destino
+di una grande fortuna,</i>
+
+369
+00:25:20,311 --> 00:25:24,232
+<i>l'avidità si fa strada nelle vene
+come un veleno.</i>
+
+370
+00:25:27,360 --> 00:25:29,696
+<i>Zii, nipoti, cugini,</i>
+
+371
+00:25:29,863 --> 00:25:32,365
+<i>congiunti di parentele sempre
+più vaghe.</i>
+
+372
+00:25:32,741 --> 00:25:34,221
+<i>i più lontani familiari dell'anziana donna</i>
+
+373
+00:25:34,325 --> 00:25:36,411
+<i>spuntati fuori come scarafaggi
+in cerca di cibo.</i>
+
+374
+00:25:38,121 --> 00:25:42,250
+<i>A capo di quella congregazione,
+incredibile coincidenza,</i>
+
+375
+00:25:42,417 --> 00:25:45,170
+<i>Trovammo il nostro Vice Kovacs,</i>
+
+376
+00:25:45,378 --> 00:25:48,131
+<i>egli stesso un importante notaio.</i>
+
+377
+00:25:48,340 --> 00:25:51,801
+<i>Era l'esecutore del testamento
+della vedova.</i>
+
+378
+00:25:58,475 --> 00:26:01,478
+Questo è il testamento di Madame D.
+
+379
+00:26:02,896 --> 00:26:04,898
+Consiste di un documento
+
+380
+00:26:05,023 --> 00:26:08,943
+redatto prima della morte del
+marito 46 anni fa,
+
+381
+00:26:09,152 --> 00:26:12,280
+e di 635 emendamenti,
+
+382
+00:26:12,447 --> 00:26:15,200
+note, correzioni e lettere d'intenti.
+
+383
+00:26:15,367 --> 00:26:18,453
+aggiunti durante i successivi decenni.
+
+384
+00:26:20,830 --> 00:26:22,470
+La legittimità definitiva di
+questa raccolta
+
+385
+00:26:22,791 --> 00:26:23,917
+richiede analisi ulteriori,
+
+386
+00:26:24,042 --> 00:26:27,087
+ma nell'opinione di questo ufficio,
+era intenzione di Madame D
+
+387
+00:26:27,295 --> 00:26:29,214
+che il controllo della gran parte
+della sua eredità
+
+388
+00:26:29,339 --> 00:26:32,092
+fosse trasferita seduta stante
+a suo figlio, Dmitri,
+
+389
+00:26:32,217 --> 00:26:34,928
+con delle diarie speciali
+per le sue sorelle,
+
+390
+00:26:35,095 --> 00:26:37,430
+Marguerite, Laetizia e Carolina,
+
+391
+00:26:37,806 --> 00:26:40,809
+a regalìe minori a diversi membri
+del nucleo familiare esteso
+
+392
+00:26:40,975 --> 00:26:44,396
+come indicato nella Lista dei Beneficiari,
+che leggerò a tempo debito.
+
+393
+00:26:46,856 --> 00:26:47,941
+Ciononostante.
+
+394
+00:26:51,403 --> 00:26:52,821
+Un codicillo aggiuntivo,
+
+395
+00:26:52,946 --> 00:26:56,199
+giunto in mio possesso per via
+postale solo questa mattina,
+
+396
+00:26:56,366 --> 00:26:58,868
+e, senza ombra di dubbio,
+inviato da Madame D
+
+397
+00:26:59,077 --> 00:27:00,438
+nelle sue ultime ore di vita,
+
+398
+00:27:00,453 --> 00:27:03,039
+contiene un emendamento
+al certificato originale,
+
+399
+00:27:03,248 --> 00:27:07,252
+che, come prescritto dalla legge,
+vi leggerò ora.
+
+400
+00:27:07,377 --> 00:27:08,698
+L'autenticità di questo documento
+
+401
+00:27:08,837 --> 00:27:10,797
+non è ancora stata confermata
+dal giudice competente,
+
+402
+00:27:10,964 --> 00:27:15,093
+quindi chiedo a tutte le parti di
+essere pazienti e trattenere i commenti
+
+403
+00:27:15,260 --> 00:27:18,513
+finché le investigazioni necessarie
+non saranno completate.
+
+404
+00:27:27,397 --> 00:27:30,859
+"Al mio stimato amico che mi
+ha dato conforto nei miei ultimi anni
+
+405
+00:27:30,984 --> 00:27:33,236
+"e ha portato un raggio di sole
+nella vita di una donna anziana
+
+406
+00:27:33,445 --> 00:27:36,281
+"che credeva di non poter mai più
+essere felice.
+
+407
+00:27:36,406 --> 00:27:38,324
+"Monsieur Gustave H,
+
+408
+00:27:40,118 --> 00:27:42,370
+"io lascio in eredità,
+al netto di tutte le tasse
+
+409
+00:27:42,537 --> 00:27:45,415
+"e con pieno e assoluto
+diritto fiduciario,
+
+410
+00:27:46,416 --> 00:27:48,168
+"il dipinto conosciuto come
+"Ragazzo con mela"...
+
+411
+00:27:48,293 --> 00:27:50,045
+- Wow!
+- "...di Johannes van Hoytl...
+
+412
+00:27:50,253 --> 00:27:51,854
+- Non posso crederci.
+- "...figlio...
+
+413
+00:27:51,880 --> 00:27:54,174
+- Cosa?
+- "che ha dato ad entrambi tanto piacere."
+
+414
+00:27:54,299 --> 00:27:55,258
+Il van Hoytl?
+
+415
+00:27:55,342 --> 00:27:56,502
+- Esentasse?
+- Ma può farlo?
+
+416
+00:27:56,843 --> 00:27:58,845
+Chi è Gustave H?
+
+417
+00:28:00,013 --> 00:28:01,556
+Temo di essere io, caro.
+
+418
+00:28:04,017 --> 00:28:06,269
+Quel frocio del cazzo!
+
+419
+00:28:06,436 --> 00:28:09,022
+È un portiere d'albergo.
+Cosa fa qui?
+
+420
+00:28:09,147 --> 00:28:12,150
+Sono venuto a portare i miei omaggi
+ad una grande donna che ho amato.
+
+421
+00:28:12,317 --> 00:28:15,528
+- Quest'uomo è un intruso in casa mia!
+- Non è ancora tua, Dmitri.
+
+422
+00:28:15,612 --> 00:28:18,031
+Manca l'autenticazione,
+e l'Atto di Donazione...
+
+423
+00:28:18,156 --> 00:28:20,516
+Non avrai Ragazzo con Mela,
+dannata checca!
+
+424
+00:28:22,160 --> 00:28:24,287
+E questo come dovrebbe
+farmi sentire?
+
+425
+00:28:24,454 --> 00:28:26,498
+Chiama la polizia.
+Sporgiamo denuncia.
+
+426
+00:28:26,873 --> 00:28:29,876
+Questo criminale ha afflitto la mia
+famiglia per quasi 20 anni.
+
+427
+00:28:30,043 --> 00:28:32,003
+È uno spietato avventuriero
+e un truffatore
+
+428
+00:28:32,087 --> 00:28:34,172
+Che plagia le donne anziane, malate
+e psicolabili.
+
+429
+00:28:34,339 --> 00:28:36,424
+E probabilmente se le scopa anche!
+
+430
+00:28:36,591 --> 00:28:38,885
+Vado a letto con tutte le mie amiche.
+
+431
+00:28:48,186 --> 00:28:50,313
+Dov'è Celine?
+
+432
+00:28:50,480 --> 00:28:54,109
+Cosa? È morta.
+Stiamo leggendo le sue volontà.
+
+433
+00:28:54,317 --> 00:28:56,486
+Oh, sì, sì, chiaro.
+
+434
+00:28:56,653 --> 00:28:59,531
+Se scopro che hai mai sfiorato
+il corpo di mia madre,
+
+435
+00:28:59,906 --> 00:29:03,159
+viva o morta, giuro su Dio che
+ti taglio la gola? Capito?
+
+436
+00:29:03,368 --> 00:29:05,453
+Credevo avessi detto che sono
+un frocio del cazzo.
+
+437
+00:29:06,538 --> 00:29:09,207
+- Lo sei, ma sei bisessuale.
+- Cambiamo argomento.
+
+438
+00:29:09,374 --> 00:29:10,417
+Vado via.
+
+439
+00:29:19,467 --> 00:29:22,637
+Quel quadro, Ragazzo con Mela,
+non ha prezzo. Capito?
+
+440
+00:29:23,013 --> 00:29:24,431
+Congratulazioni, Monsieur Gustave!
+
+441
+00:29:24,597 --> 00:29:26,517
+Mi faranno la guerra,
+porca puttana.
+
+442
+00:29:26,558 --> 00:29:28,977
+- È molto bello?
+- Oltre ogni dire.
+
+443
+00:29:29,144 --> 00:29:31,521
+"Finanche il bardo più destro
+non può cantare
+
+444
+00:29:31,646 --> 00:29:33,690
+"che la sua mancanza,
+e tutto ciò che non è!
+
+445
+00:29:34,107 --> 00:29:36,401
+- "La sua favella non può..."
+- Posso vederlo?
+
+446
+00:29:36,568 --> 00:29:38,570
+Non vedo perché no.
+
+447
+00:30:10,268 --> 00:30:12,604
+Questo è lo splendito ritratto che
+van Hoytl fa
+
+448
+00:30:12,979 --> 00:30:15,148
+di un magnifico ragazzo
+sull'orlo della maturità.
+
+449
+00:30:15,315 --> 00:30:18,068
+Biondo, raffinato.
+La pelle bianca come il latte.
+
+450
+00:30:18,193 --> 00:30:19,444
+Di origine inappuntabile.
+
+451
+00:30:19,652 --> 00:30:23,239
+Uno degli ultimi in mani private,
+e senza dubbio il migliore.
+
+452
+00:30:23,448 --> 00:30:24,699
+È un capolavoro.
+
+453
+00:30:25,033 --> 00:30:27,077
+Il resto della roba è
+ciarpame senza valore.
+
+454
+00:31:46,156 --> 00:31:48,533
+Cosa voleva dirmi prima?
+
+455
+00:31:49,784 --> 00:31:51,786
+Non credo di poterlo
+dire adesso.
+
+456
+00:31:52,162 --> 00:31:54,414
+Mi scriva domani. Stazione di Lutzbahn!
+
+457
+00:32:06,384 --> 00:32:08,386
+Non me ne separerò mai.
+
+458
+00:32:08,553 --> 00:32:12,849
+Le ricordava me.
+Mi ricorderà lei. Per sempre.
+
+459
+00:32:13,266 --> 00:32:15,810
+Morirò con questo quadro
+sopra il mio letto.
+
+460
+00:32:16,144 --> 00:32:18,146
+Vedi la somiglianza?
+
+461
+00:32:19,147 --> 00:32:21,149
+Oh, sì.
+
+462
+00:32:26,446 --> 00:32:28,198
+In realtà dovremmo venderlo.
+
+463
+00:32:28,406 --> 00:32:31,409
+Prima è, meglio è, nel caso
+provino a rubarcelo a loro volta.
+
+464
+00:32:31,576 --> 00:32:34,329
+Inoltre, quei soldati psicopatici
+sul treno...
+
+465
+00:32:34,537 --> 00:32:37,832
+Questa potrebbe essere una guerra difficile
+e un lungo periodo di magra per l'hotel.
+
+466
+00:32:38,166 --> 00:32:40,585
+Per quello che ne sappiamo,
+potrebbero chiuderci domani.
+
+467
+00:32:46,883 --> 00:32:48,843
+Facciamo un solenne patto di sangue.
+
+468
+00:32:49,219 --> 00:32:51,539
+Contattiamo il mercato nero e
+vendiamo Ragazzo con Mela
+
+469
+00:32:51,638 --> 00:32:52,597
+entro la settimana,
+
+470
+00:32:52,681 --> 00:32:55,600
+Poi lasciamo il paese e ci nascondiamo da
+qualche parte lungo la Riviera Maltese
+
+471
+00:32:55,809 --> 00:32:58,395
+finché la tempesta sarà passata,
+e potremo riprendere i nostri posti.
+
+472
+00:32:58,603 --> 00:33:00,355
+In cambio del tuo aiuto,
+della tua lealtà
+
+473
+00:33:00,563 --> 00:33:02,357
+e del tuo servizio come
+mio valletto personale,
+
+474
+00:33:02,565 --> 00:33:07,153
+ti prometto l'1.5% del
+prezzo di vendita.
+
+475
+00:33:07,320 --> 00:33:09,322
+- 1.5%?
+- Più vitto e alloggio.
+
+476
+00:33:10,740 --> 00:33:13,243
+- Non potremmo fare il 10%?
+- 10%? Mi prendi in giro?
+
+477
+00:33:13,451 --> 00:33:15,203
+È più di quanto pagherei
+un vero mercante d'arte,
+
+478
+00:33:15,328 --> 00:33:17,580
+e tu non distingueresti un chiaroscuro
+da un mucchio di frattaglie di pollo.
+
+479
+00:33:17,789 --> 00:33:19,541
+No, 1.5 è giusto.
+Ma senti qua:
+
+480
+00:33:19,708 --> 00:33:22,836
+se morirò per primo, e quasi sicuramente
+sarà così, sarai il mio solo erede.
+
+481
+00:33:23,211 --> 00:33:25,972
+Non c'è molto nel piatto, a parte
+un set di spazzole in avorio
+
+482
+00:33:26,214 --> 00:33:27,575
+e la mia collezione di poesia
+romantica,
+
+483
+00:33:27,674 --> 00:33:30,385
+ma quando sarà il momento
+sarà tutto tuo,
+
+484
+00:33:30,510 --> 00:33:33,763
+insieme a tutto quello che non avremo
+speso in whiskey e prostitute.
+
+485
+00:33:33,888 --> 00:33:36,599
+Questo è il nostro sacro patto.
+
+486
+00:33:36,766 --> 00:33:38,768
+Lo redigo all'istante.
+
+487
+00:33:43,773 --> 00:33:47,819
+Io, Monsieur Gustave H, relativamente
+capace di intendere di volere,
+
+488
+00:33:48,194 --> 00:33:51,865
+oggi, 19 Ottobre, nell'anno
+del Signore 1932...
+
+489
+00:33:52,240 --> 00:33:54,909
+<i>Non mi disse mai da dove venisse.</i>
+
+490
+00:33:58,496 --> 00:34:00,707
+<i>Non chiesi mai dove fosse
+la sua famiglia.</i>
+
+491
+00:34:21,644 --> 00:34:23,646
+Mi scusi.
+
+492
+00:34:26,524 --> 00:34:29,819
+C'è la polizia.
+Chiedono di lei.
+
+493
+00:34:33,740 --> 00:34:35,742
+Dica loro che arrivo subito.
+
+494
+00:34:36,576 --> 00:34:38,578
+Okay.
+
+495
+00:34:43,792 --> 00:34:45,712
+Sei mai stato interrogato
+dalle autorità?
+
+496
+00:34:45,919 --> 00:34:48,672
+Sì, una volta sono stato arrestato
+e torturato dalle milizie ribelli
+
+497
+00:34:48,838 --> 00:34:49,881
+dopo l'Insurrezione del Deserto.
+
+498
+00:34:50,256 --> 00:34:52,136
+- Sai come funziona, dunque. Chiudi il becco.
+- Certo.
+
+499
+00:34:52,425 --> 00:34:55,720
+Non hai mai sentito la parola "van Hoytl"
+nella tua vita. Okay, andiamo.
+
+500
+00:35:10,735 --> 00:35:12,737
+Come posso esservi d'aiuto?
+
+501
+00:35:13,988 --> 00:35:15,281
+Ah, Ispettore Henckels.
+
+502
+00:35:15,448 --> 00:35:17,867
+"Per ordine del Commissario di polizia
+della provincia di Zubrowka,
+
+503
+00:35:18,326 --> 00:35:19,911
+"la dichiaro in arresto
+per l'omicidio
+
+504
+00:35:20,036 --> 00:35:22,622
+"di Madame Ceine Villeneuve
+Desgoffe und Taxis."
+
+505
+00:35:22,747 --> 00:35:25,834
+Sapevo che c'era qualcosa di sospetto.
+Non ci è stata detta la causa del decesso.
+
+506
+00:35:26,001 --> 00:35:29,337
+È stata uccisa e voi credete
+sia stato io.
+
+507
+00:35:30,880 --> 00:35:32,882
+Hey!
+
+508
+00:35:34,759 --> 00:35:36,761
+Fermo!
+
+509
+00:36:25,894 --> 00:36:27,937
+Cosa è successo?
+
+510
+00:36:28,104 --> 00:36:30,690
+È successo, mio caro Zero,
+che ho fatto un culo così
+
+511
+00:36:30,815 --> 00:36:33,568
+ad un piagnucoloso moscerino
+chiamato Pinky Bandinski
+
+512
+00:36:33,735 --> 00:36:35,570
+che ha avuto l'ardire di mettere
+in dubbio la mia virilità,
+
+513
+00:36:35,695 --> 00:36:37,947
+perché se c'è una cosa che abbiamo
+imparato dai romanzi d'appendice,
+
+514
+00:36:38,073 --> 00:36:40,234
+è che, quando ti trovi
+in un posto come questo,
+
+515
+00:36:40,450 --> 00:36:41,826
+non devi mai essere una femminuccia.
+
+516
+00:36:41,993 --> 00:36:43,953
+Devi dimostrarti all'altezza
+dal primo momento.
+
+517
+00:36:44,079 --> 00:36:45,663
+Devi guadagnarti il loro rispetto.
+
+518
+00:36:45,955 --> 00:36:49,042
+Dovresti vedere il suo
+grugno tumefatto.
+
+519
+00:36:52,545 --> 00:36:54,422
+In realtà, è diventato
+un caro amico.
+
+520
+00:36:54,589 --> 00:36:56,007
+Lo conoscerai, spero.
+
+521
+00:36:56,966 --> 00:36:59,010
+Dunque. Hai parlato a Kovacs?
+
+522
+00:36:59,427 --> 00:37:00,720
+L'ho visto ieri notte, di nascosto.
+
+523
+00:37:00,887 --> 00:37:03,168
+Mi ha fatto giurare su una Bibbia
+che non l'avrei detto a nessuno.
+
+524
+00:37:03,431 --> 00:37:05,725
+- Devi farlo anche tu.
+- Lo faccio dopo.
+
+525
+00:37:05,850 --> 00:37:08,436
+- Sospetta che tu sia innocente.
+- Ovviamente.
+
+526
+00:37:08,603 --> 00:37:10,438
+Qual è l'accusa?
+
+527
+00:37:11,773 --> 00:37:14,734
+Alle ore piccole della sera
+del 19 Ottobre,
+
+528
+00:37:14,901 --> 00:37:17,946
+un uomo conosciuto come
+Monsieur Gustave H,
+
+529
+00:37:18,113 --> 00:37:21,408
+è giunto alla residenza dei
+Desgoffe und Taxis, a Lutz
+
+530
+00:37:21,574 --> 00:37:23,993
+ed è entrato dalla porta
+di servizio,
+
+531
+00:37:24,119 --> 00:37:25,578
+senza farsi vedere da nessuno,
+
+532
+00:37:25,787 --> 00:37:29,582
+procedendo per la scalinata
+di servizio e il corridoio della servitù,
+
+533
+00:37:29,749 --> 00:37:32,002
+s'è introdotto nelle camere
+private di Madame D.
+
+534
+00:37:32,168 --> 00:37:34,796
+Non ci sono prove che indichino
+se la visita
+
+535
+00:37:34,963 --> 00:37:37,549
+sia stata concordata
+con lei o meno.
+
+536
+00:37:37,716 --> 00:37:42,637
+La mattina seguente, Madame D è trovata
+morta per avvelenamento da stricnina.
+
+537
+00:37:42,804 --> 00:37:44,965
+Monsieur Gustave non è più
+stato visto nell'edificio
+
+538
+00:37:45,056 --> 00:37:48,184
+fino a 24 ore dopo.
+
+539
+00:37:48,560 --> 00:37:53,106
+L'identità degli accusatori è esplicitata
+nei documenti depositati.
+
+540
+00:37:53,481 --> 00:37:56,818
+Questi includono, essenzialmente,
+tutti i membri della famiglia allargata,
+
+541
+00:37:56,985 --> 00:38:01,740
+ma il testimone chiave, che pare abbia
+visto i presunti eventi
+
+542
+00:38:01,906 --> 00:38:04,617
+sembra aver lasciato la
+giurisdizione.
+
+543
+00:38:04,784 --> 00:38:06,536
+La sua posizione è al momento
+sconosciuta,
+
+544
+00:38:06,661 --> 00:38:09,164
+ma le autorità competenti
+continuano le ricerche.
+
+545
+00:38:09,539 --> 00:38:11,624
+Chi è?
+
+546
+00:38:15,712 --> 00:38:17,797
+- Serge?
+- Temo di sì.
+
+547
+00:38:18,006 --> 00:38:20,216
+Quel cazzoncello.
+
+548
+00:38:20,550 --> 00:38:22,635
+No, non ci credo.
+L'hanno costretto.
+
+549
+00:38:22,844 --> 00:38:24,929
+Sono capitato in un
+nido di vipere.
+
+550
+00:38:25,096 --> 00:38:26,097
+Ha un alibi?
+
+551
+00:38:26,473 --> 00:38:28,634
+Certo, ma è sposata con il
+Duca di Westphalia.
+
+552
+00:38:28,767 --> 00:38:31,478
+Non posso permettere che il suo nome
+sia contaminato da questi sporchi affari.
+
+553
+00:38:31,644 --> 00:38:35,482
+- È questione di vita o di morte.
+- Lo so, ma quella stronza se l'è squagliata.
+
+554
+00:38:35,648 --> 00:38:39,235
+È già a bordo della Queen Nasstasja,
+verso la Tanganyka Olandese.
+
+555
+00:38:41,863 --> 00:38:43,073
+Non molli.
+
+556
+00:38:48,912 --> 00:38:50,538
+<i>I dettagli della cospirazione,</i>
+
+557
+00:38:51,831 --> 00:38:53,917
+<i>oggi di dominio pubblico,</i>
+
+558
+00:38:54,084 --> 00:38:57,170
+<i>erano, al tempo, per noi
+imperscrutabili.</i>
+
+559
+00:39:14,688 --> 00:39:16,106
+Cerco Serge X,
+
+560
+00:39:16,272 --> 00:39:19,150
+un uomo al servizio dei miei
+datori di lavoro,
+
+561
+00:39:19,526 --> 00:39:22,946
+la famiglia Desgoffe und taxis
+di Schloss Lutz.
+
+562
+00:39:24,614 --> 00:39:26,074
+- Sì, signore?
+- È sua sorella?
+
+563
+00:39:26,908 --> 00:39:28,743
+- Sì, signore.
+- L'ha visto di recente?
+
+564
+00:39:29,911 --> 00:39:31,996
+- No, signore.
+- Nossignore?
+
+565
+00:39:33,081 --> 00:39:34,082
+No, sìgnore.
+
+566
+00:39:37,585 --> 00:39:40,213
+Devo trovarlo al più presto,
+per il suo bene
+
+567
+00:39:40,588 --> 00:39:42,007
+e quello di tutti gli altri.
+
+568
+00:39:42,215 --> 00:39:44,968
+Se si fa vedere...
+
+569
+00:39:45,093 --> 00:39:47,887
+- Sì, signore?
+- Gli dica che Jopling ha detto,
+
+570
+00:39:48,096 --> 00:39:50,306
+"Torna a casa."
+
+571
+00:39:52,600 --> 00:39:55,061
+<i>Ma una cosa era certa,</i>
+
+572
+00:39:57,105 --> 00:40:00,775
+<i>I Desfogge und Taxis erano
+una famiglia molto potente,</i>
+
+573
+00:40:04,904 --> 00:40:07,073
+<i>e il tempo non giocava a
+nostro vantaggio.</i>
+
+574
+00:40:15,081 --> 00:40:17,917
+Una lettera da Monsieur Gustave.
+Zero.
+
+575
+00:40:18,835 --> 00:40:20,837
+- Vuole che io...
+- Leggila.
+
+576
+00:40:26,718 --> 00:40:28,678
+"Miei cari e fidati colleghi..."
+
+577
+00:40:28,845 --> 00:40:30,889
+Mi mancate molto mentre
+vi scrivo dalle catene
+
+578
+00:40:31,056 --> 00:40:34,059
+della mia spiacevole e
+insensata prigionia.
+
+579
+00:40:34,225 --> 00:40:36,311
+Finché non sarò nuovamente
+libero di essere tra voi,
+
+580
+00:40:36,644 --> 00:40:38,938
+Il Grand Budapest è nelle
+vostre mani,
+
+581
+00:40:39,147 --> 00:40:41,274
+così come la sua impeccabile
+reputazione.
+
+582
+00:40:41,649 --> 00:40:43,651
+Mantenetela immacolata e
+onoratela.
+
+583
+00:40:43,818 --> 00:40:46,071
+Abbiate cura maniacale anche
+del suo più minuscolo pezzo
+
+584
+00:40:46,237 --> 00:40:48,323
+come se vi osservassi dall'alto
+come un falco
+
+585
+00:40:48,656 --> 00:40:52,035
+con un frustino tra gli artigli,
+perché è quello che faccio.
+
+586
+00:40:52,202 --> 00:40:55,246
+Dovessi scoprire una mancanza di qualsiasi
+genere durante la mia assenza,
+
+587
+00:40:55,622 --> 00:40:59,125
+giuro che la giustizie vi piomberà
+addosso, rapida e spietata.
+
+588
+00:40:59,292 --> 00:41:03,254
+Una grande e nobile casa è stata
+posta sotto la vostra protezione.
+
+589
+00:41:03,630 --> 00:41:06,132
+Riferite a Zero qualsiasi stranezza.
+
+590
+00:41:06,299 --> 00:41:08,385
+"Il vostro devoto Monsieur Gustave."
+
+591
+00:41:08,760 --> 00:41:11,080
+Poi c'è una poesia, ma forse
+è meglio iniziare la zuppa
+
+592
+00:41:11,137 --> 00:41:13,640
+poiché sono 46 strofe.
+
+593
+00:41:13,807 --> 00:41:17,394
+"Una rorida cenere nera umetta
+il laidume della tana di un ratto
+
+594
+00:41:17,769 --> 00:41:19,854
+"e si mischia col denso effluvio
+di legno marcescente
+
+595
+00:41:20,021 --> 00:41:21,856
+"mentre il canto d'allodola
+di un troglodita..."
+
+596
+00:41:22,023 --> 00:41:24,234
+Non mi sono mai fidato di
+quel maggiordomo.
+
+597
+00:41:24,401 --> 00:41:28,154
+- È troppo onesto.
+<i>- Troppo onesto, dici?</i>
+
+598
+00:41:28,279 --> 00:41:32,742
+<i>Beh, sia come sia, trovalo
+in fretta e risolvi.</i>
+
+599
+00:41:48,967 --> 00:41:51,428
+Posso offrire a voi reclusi un
+piatto di poltiglia?
+
+600
+00:41:54,055 --> 00:41:55,390
+No? Nessuno?
+
+601
+00:41:55,765 --> 00:41:57,976
+Tu, con la grande cicatrice
+sul viso?
+
+602
+00:42:07,277 --> 00:42:10,196
+Provala. È molto tiepida
+e nutriente stamane.
+
+603
+00:42:10,321 --> 00:42:11,364
+Ci vuole un pizzico di sale.
+
+604
+00:42:20,290 --> 00:42:21,916
+Buona giornata.
+
+605
+00:42:26,796 --> 00:42:28,798
+Poltiglia, signori? Chi la vuole?
+
+606
+00:42:32,886 --> 00:42:34,304
+Statemi bene.
+
+607
+00:42:39,976 --> 00:42:41,519
+È ora d'alzarsi, hop, hop.
+
+608
+00:42:43,146 --> 00:42:44,314
+Buongiorno, Pinky.
+
+609
+00:42:50,153 --> 00:42:52,822
+- Di nuovo Mendl?
+- Esatto.
+
+610
+00:42:52,989 --> 00:42:54,991
+Chi ha la lama tagliagole?
+
+611
+00:43:00,497 --> 00:43:03,416
+- Di un altro pianeta.
+- Mendl è il migliore.
+
+612
+00:43:03,792 --> 00:43:05,877
+- Beh, al lavoro.
+- Monsieur Gustave?
+
+613
+00:43:09,339 --> 00:43:10,882
+Sì?
+
+614
+00:43:14,511 --> 00:43:16,930
+Io e i ragazzi ne abbiamo discusso.
+
+615
+00:43:17,138 --> 00:43:19,516
+Crediamo che lei sia un tipo
+davvero a posto.
+
+616
+00:43:19,849 --> 00:43:21,976
+Beh, non sono mai stato accusato
+di tanto, prima d'ora,
+
+617
+00:43:22,185 --> 00:43:24,145
+ma apprezzo l'intenzione.
+
+618
+00:43:24,312 --> 00:43:25,814
+Lei è uno di noi, ora.
+
+619
+00:43:27,023 --> 00:43:28,983
+Che cosa carina, da dirsi.
+
+620
+00:43:29,192 --> 00:43:31,111
+Grazie, caro Pinky.
+Grazie, Gunther.
+
+621
+00:43:31,236 --> 00:43:32,779
+Grazie, Wolf.
+
+622
+00:43:32,946 --> 00:43:34,948
+Nient'altro?
+
+623
+00:43:36,825 --> 00:43:37,867
+Diglielo, Ludwig.
+
+624
+00:43:39,828 --> 00:43:43,081
+Il Checkpoint 19 non è una
+gattabuia da due soldi.
+
+625
+00:43:43,206 --> 00:43:46,418
+Ci sono spesse sbarre di ferro
+ad ogni porta, sfiato e finestra.
+
+626
+00:43:46,793 --> 00:43:50,255
+Ci sono 72 guardie sul piano,
+e altre 16 nelle torrette.
+
+627
+00:43:50,422 --> 00:43:54,843
+C'è un salto di 100 metri in un
+fossato pieno di coccodrilli.
+
+628
+00:43:55,051 --> 00:43:57,012
+Ma, come tutte le prigioni,
+ha un punto debole,
+
+629
+00:43:57,178 --> 00:43:58,972
+che in questo caso ha
+la forma
+
+630
+00:43:59,139 --> 00:44:01,224
+di un sistema fognario a caditoie
+
+631
+00:44:01,391 --> 00:44:03,810
+costruito al tempo della prima
+fortificazione di questa rocca
+
+632
+00:44:04,019 --> 00:44:06,062
+nel lontano Medioevo.
+
+633
+00:44:06,229 --> 00:44:09,315
+Ora, nessuno dice che è una passeggiata
+lungo un viale alberato
+
+634
+00:44:09,441 --> 00:44:11,234
+con una donna elegante
+e un barboncino bianco,
+
+635
+00:44:11,401 --> 00:44:15,113
+ma è quella che si chiama
+"vulnerabilità",
+
+636
+00:44:15,280 --> 00:44:18,033
+e questo è il nostro pane
+quotidiano.
+
+637
+00:44:18,908 --> 00:44:21,036
+Guarda.
+
+638
+00:44:22,203 --> 00:44:23,455
+Chi l'ha disegnato?
+
+639
+00:44:23,830 --> 00:44:25,915
+Che intendi?
+Io l'ho disegnato.
+
+640
+00:44:26,082 --> 00:44:28,168
+Bellissimo, hai un tratto
+stupendo, Ludwig.
+
+641
+00:44:28,293 --> 00:44:30,045
+Hai un enorme talento artistico.
+
+642
+00:44:30,211 --> 00:44:33,506
+Domanda: come intendi penetrare
+queste fondamenta?
+
+643
+00:44:33,882 --> 00:44:36,301
+Sono 60cm di muratura in
+granito rinforzato, no?
+
+644
+00:44:36,468 --> 00:44:38,219
+Scavando con la lama tagliagole,
+
+645
+00:44:38,428 --> 00:44:41,139
+immagino ci vogliano dai tre
+ai sei mesi di impegno continuo,
+
+646
+00:44:41,264 --> 00:44:42,849
+durante i quali molti
+dei nostri membri
+
+647
+00:44:43,058 --> 00:44:44,419
+saranno violentemente
+giustiziati.
+
+648
+00:44:44,559 --> 00:44:47,020
+Ha colpito nel segno,
+Mr. Gustave.
+
+649
+00:44:47,187 --> 00:44:49,856
+Abbiamo documenti falsi,
+vestiti civili di seconda mano,
+
+650
+00:44:50,023 --> 00:44:52,317
+Una scala di corda fatta
+con doghe e lenzuola,
+
+651
+00:44:52,484 --> 00:44:54,402
+Ma ci servono attrezzi
+per scavare,
+
+652
+00:44:54,569 --> 00:44:57,530
+che sono difficili da trovare
+in questa topaia.
+
+653
+00:45:12,045 --> 00:45:13,463
+<i>A questo punto della storia,</i>
+
+654
+00:45:13,630 --> 00:45:17,300
+<i>L'uomo si zittì di colpo e
+allontanò la sua spalla di agnello.</i>
+
+655
+00:45:17,467 --> 00:45:20,345
+<i>I suoi occhi si scurirono come
+un cielo in tempesta.</i>
+
+656
+00:45:20,512 --> 00:45:22,514
+<i>Era in evidente difficoltà.</i>
+
+657
+00:45:22,889 --> 00:45:25,308
+- Sta male, Mr. Moustafa?
+<i>- Mi decisi a chiedergli.</i>
+
+658
+00:45:25,475 --> 00:45:27,894
+- No, mio caro, affatto.
+<i>- Rispose.</i>
+
+659
+00:45:28,103 --> 00:45:30,438
+È solo che non so come andare avanti.
+
+660
+00:45:31,606 --> 00:45:33,942
+<i>Stava piangendo.</i>
+
+661
+00:45:34,109 --> 00:45:35,527
+Vede, non parlo mai di Agatha,
+
+662
+00:45:35,652 --> 00:45:39,322
+perché al solo pensiero
+del suo nome
+
+663
+00:45:39,489 --> 00:45:42,283
+perdo il controllo delle
+mie emozioni.
+
+664
+00:45:45,370 --> 00:45:47,580
+Beh, immagino sia
+inutile girarci attorno.
+
+665
+00:45:48,998 --> 00:45:51,251
+Vede, lei ci ha salvati.
+
+666
+00:45:51,501 --> 00:45:53,378
+<i>Il giorno del nostro
+terzo appuntamento,</i>
+
+667
+00:45:53,545 --> 00:45:56,339
+<i>Chiesi la sua mano,
+e lei acconsentì. -</i>
+
+668
+00:45:56,548 --> 00:45:58,550
+- Vuoi sposarmi?
+- Sì.
+
+669
+00:46:00,385 --> 00:46:03,304
+<i>Non avevamo neppure 50
+Klubeck in due -</i>
+
+670
+00:46:03,471 --> 00:46:06,683
+<i>Non lo sapeva nessuno, ovviamente,
+ma a chi sarebbe importato?</i>
+
+671
+00:46:07,017 --> 00:46:09,602
+<i>Eravamo entrambi del tutto
+soli al mondo,</i>
+
+672
+00:46:10,937 --> 00:46:12,939
+<i>Ed eravamo follemente
+innamorati</i>
+
+673
+00:46:21,573 --> 00:46:23,450
+- Ecco.
+- Grazie.
+
+674
+00:46:23,616 --> 00:46:25,493
+- È un libro.
+- Lo vedo.
+
+675
+00:46:25,660 --> 00:46:27,245
+Poesia Romantica, Volume I.
+
+676
+00:46:27,412 --> 00:46:29,972
+Raccomandato da Monsieur Gustave.
+Ne ho anch'io una mia copia.
+
+677
+00:46:30,040 --> 00:46:34,085
+- Ho rovinato la sorpresa, immagino.
+- Lo aprirò comunque.
+
+678
+00:46:37,464 --> 00:46:39,466
+Leggi la dedica.
+
+679
+00:46:58,068 --> 00:46:59,152
+<i>Monsieur Gustave ci tenne</i>
+
+680
+00:46:59,319 --> 00:47:01,529
+<i>ad un immediato e scrupoloso
+esame incrociato.</i>
+
+681
+00:47:01,696 --> 00:47:04,449
+È incantevole.
+Assolutamente incantevole.
+
+682
+00:47:04,574 --> 00:47:07,118
+<i>durante il quale regalò ad
+Agatha un ciondolo di porcellana</i>
+
+683
+00:47:07,285 --> 00:47:10,205
+<i>e cinque dozzine di
+tulipani bianchi</i>
+
+684
+00:47:10,413 --> 00:47:12,499
+<i>in una scatola delle dimensioni
+di una bara da bambino.</i>
+
+685
+00:47:12,665 --> 00:47:15,418
+- Non sta bene.
+- Come, scusa?
+
+686
+00:47:15,585 --> 00:47:16,711
+Perché è imbronciato?
+
+687
+00:47:17,087 --> 00:47:19,087
+È la mia ragazza.
+Non può farle regali.
+
+688
+00:47:19,172 --> 00:47:22,425
+Sto solo facendo qualche domanda a
+questa visione deliziosa per conto tuo.
+
+689
+00:47:22,592 --> 00:47:25,261
+Non essere mai geloso, Zero,
+neppure per un istante.
+
+690
+00:47:25,428 --> 00:47:27,055
+Ci sta provando con te?
+
+691
+00:47:28,306 --> 00:47:31,393
+- Sì.
+- Approvo quest'unione.
+
+692
+00:47:31,601 --> 00:47:34,187
+Agatha, tesoro,
+torna dal tuo adorato.
+
+693
+00:47:34,354 --> 00:47:35,605
+<i>Presto scoprimmo...</i>
+
+694
+00:47:35,772 --> 00:47:37,524
+Vi auguro tutto il bene.
+
+695
+00:47:37,691 --> 00:47:39,442
+<i>che Agatha non era
+solo fenomenale</i>
+
+696
+00:47:39,651 --> 00:47:42,237
+<i>con la spatola da dolci
+e le guarnizioni in crema...</i>
+
+697
+00:47:42,404 --> 00:47:44,406
+- Mendl.
+- Vai.
+
+698
+00:47:45,532 --> 00:47:47,534
+<i>ma che era anche
+incredibilmente coraggiosa.</i>
+
+699
+00:47:52,122 --> 00:47:54,207
+<i>Credo ci fosse nata.</i>
+
+700
+00:48:13,518 --> 00:48:15,562
+Manca qualcosa.
+
+701
+00:48:15,687 --> 00:48:20,275
+Un documento cruciale, perso o
+più probabilmente distrutto-
+
+702
+00:48:20,442 --> 00:48:22,922
+Non so cosa contenga,
+non so cosa rappresenti,
+
+703
+00:48:23,194 --> 00:48:24,487
+non so cosa sia,
+
+704
+00:48:24,696 --> 00:48:27,782
+ma ve ne sono tracce ovunque.
+
+705
+00:48:28,116 --> 00:48:29,701
+Ora, non voglio allarmarla,
+
+706
+00:48:29,868 --> 00:48:31,748
+e non m'aspetto di vedere
+cambiamenti significativi
+
+707
+00:48:31,786 --> 00:48:34,789
+nelle decisioni del magistrato
+circa la sua eredità,
+
+708
+00:48:35,165 --> 00:48:38,793
+ma, soprattutto date
+le circostanze della morta,
+
+709
+00:48:39,169 --> 00:48:43,548
+e la sparizione del testimone chiave
+dell'omicidio, Serge X,
+
+710
+00:48:43,715 --> 00:48:45,556
+Suggerisco di portare
+questo caso
+
+711
+00:48:45,592 --> 00:48:47,761
+all'attenzione dell'ispettore
+municipale
+
+712
+00:48:48,136 --> 00:48:49,816
+cosicché non vi sia alcun
+dubbio, in futuro,
+
+713
+00:48:50,096 --> 00:48:52,390
+sulla legittimità del verdetto.
+
+714
+00:48:52,557 --> 00:48:54,351
+- D'accordo?
+- Non d'accordo.
+
+715
+00:48:56,227 --> 00:48:58,313
+- Non d'accordo?
+- Non d'accordo.
+
+716
+00:49:00,899 --> 00:49:04,319
+- Posso farti una domanda, Vilmos?
+- Certo, Dmitri.
+
+717
+00:49:04,444 --> 00:49:07,197
+- Per chi lavori?
+- Come dice?
+
+718
+00:49:07,364 --> 00:49:11,159
+Per chi lavori? Credevo fossi
+il nostro avvocato.
+
+719
+00:49:11,326 --> 00:49:14,621
+Beh, tecnicamente sono
+l'esecutore del testamento.
+
+720
+00:49:14,788 --> 00:49:18,875
+In questa situazione,
+rappresento la deceduta.
+
+721
+00:49:19,250 --> 00:49:20,251
+Ah, sì?
+
+722
+00:49:20,377 --> 00:49:23,171
+Sì. Il pagamento dei miei
+servigi era incluso nel...
+
+723
+00:49:23,338 --> 00:49:28,176
+Metti le cose a posto e non
+creare problemi, d'accordo?
+
+724
+00:49:30,178 --> 00:49:34,224
+Sono un notaio. Sono obbligato
+ad agire secondo norma di legge.
+
+725
+00:49:35,517 --> 00:49:36,601
+Non d'accordo.
+
+726
+00:49:43,274 --> 00:49:45,318
+Questa cosa puzza, sorelle.
+
+727
+00:49:48,697 --> 00:49:50,740
+Ha buttato il mio gatto
+dalla finestra?
+
+728
+00:49:52,158 --> 00:49:53,785
+Non credo, no.
+
+729
+00:49:53,868 --> 00:49:54,869
+- No, mica l'ha fatto?
+- Chi, Jopling?
+
+730
+00:50:21,855 --> 00:50:23,857
+Okay.
+
+731
+00:50:34,492 --> 00:50:37,287
+C'è una cosa che non ti
+ho detto, Agatha.
+
+732
+00:50:37,495 --> 00:50:38,663
+- Okay.
+- Abbiamo rubato un quadro.
+
+733
+00:50:38,830 --> 00:50:41,458
+È molto prezioso, forse
+5 milioni di Klubeck, in effetti.
+
+734
+00:50:41,624 --> 00:50:43,543
+Non so se si siano già accorti
+del furto
+
+735
+00:50:43,668 --> 00:50:45,337
+ma se dovesse succedermi
+qualcosa...
+
+736
+00:50:45,503 --> 00:50:46,921
+Rubi opere d'arte?
+
+737
+00:50:48,006 --> 00:50:51,259
+Un solo quadro. Comunque dobbiamo
+avere un piano per la tua sopravvivenza.
+
+738
+00:50:51,384 --> 00:50:54,264
+Conserva questo. È in codice
+e ti servirà una lente per leggerlo,
+
+739
+00:50:54,387 --> 00:50:56,598
+c'è scritto esattamente dove e
+come trovare Ragazzo con Mela.
+
+740
+00:50:56,765 --> 00:50:58,808
+Non accettare meno della metà
+del prezzo di vendita. Inoltre...
+
+741
+00:50:58,975 --> 00:51:01,728
+- Zero, sono una fornaia.
+- Sei una pasticciera.
+
+742
+00:51:01,895 --> 00:51:03,813
+Non sono una ricettatrice,
+è questo il punto.
+
+743
+00:51:03,980 --> 00:51:05,899
+Non vendo oggetti rubati.
+
+744
+00:51:07,275 --> 00:51:09,277
+Mi sono espresso male.
+Lei voleva che lo avesse lui.
+
+745
+00:51:18,453 --> 00:51:20,455
+Dormi.
+
+746
+00:51:20,997 --> 00:51:22,874
+Sì, Herr Mendl.
+
+747
+00:51:25,669 --> 00:51:27,462
+- Conservalo.
+- No.
+
+748
+00:51:27,629 --> 00:51:29,631
+Okay, ma prendilo lo stesso.
+
+749
+00:54:55,670 --> 00:54:58,840
+<i>Il giorno seguente, Herr Becker
+ricevette una strana</i>
+
+750
+00:54:59,007 --> 00:55:01,760
+<i>notizia dell'ultim'ora
+dall'ufficio del Vice Kovacs,</i>
+
+751
+00:55:01,968 --> 00:55:06,556
+<i>Che rimandava l'appuntamento
+previsto, per sempre.</i>
+
+752
+00:55:36,628 --> 00:55:38,630
+Filiamocela.
+
+753
+00:56:48,241 --> 00:56:50,952
+- Che ci fate lì fuori?
+- Chiudi quella fogna.
+
+754
+00:56:51,119 --> 00:56:53,830
+Questi qui tentano di scappare.
+
+755
+00:56:53,997 --> 00:56:55,749
+Che diavolo ti prende,
+spia infame?
+
+756
+00:56:55,915 --> 00:56:57,917
+Guardie! Guardie!
+
+757
+00:57:05,175 --> 00:57:08,762
+Sei tu. Grazie.
+Grazie, dolce, gentile amico.
+
+758
+00:57:38,625 --> 00:57:40,627
+Okay.
+
+759
+00:58:54,492 --> 00:58:57,203
+Credo si possa chiamare
+un pareggio.
+
+760
+00:59:06,296 --> 00:59:08,298
+Buona sera.
+
+761
+00:59:16,514 --> 00:59:20,226
+Lasciate che vi presenti. Pinky, Wolf,
+Ludwig, questo è il divino Zero.
+
+762
+00:59:20,393 --> 00:59:22,270
+Gunther è stato ucciso
+nelle catacombe.
+
+763
+00:59:22,437 --> 00:59:25,231
+Beh, ragazzi, chissà quando ci
+rivedremo, ma se un giorno...
+
+764
+00:59:25,440 --> 00:59:26,483
+Aspetta.
+
+765
+00:59:29,486 --> 00:59:31,988
+Non c'è tempo
+per le chiacchiere.
+
+766
+00:59:32,197 --> 00:59:34,491
+Si prenda cura di lei,
+Mr. Gustave.
+
+767
+00:59:34,824 --> 00:59:36,826
+Buona fortuna, ragazzo.
+
+768
+00:59:40,330 --> 00:59:43,416
+- Da che parte è il rifugio?
+- Non ne ho trovati.
+
+769
+00:59:43,500 --> 00:59:46,544
+Nessun rifugio? Sul serio?
+Siamo da soli qui fuori?
+
+770
+00:59:46,878 --> 00:59:50,006
+Temo di sì.
+Ho chiesto in giro, ma...
+
+771
+00:59:50,215 --> 00:59:53,009
+Capisco. Troppo rischioso.
+Immagino che dovremo improvvisare.
+
+772
+00:59:53,218 --> 00:59:55,512
+Mettiamoci i travestimenti.
+
+773
+00:59:55,845 --> 00:59:57,972
+- Li abbiamo già.
+- No, affatto.
+
+774
+00:59:58,139 --> 01:00:00,517
+S'era detto, baffi finti,
+barba finta, e così via.
+
+775
+01:00:00,850 --> 01:00:03,269
+- Non hai portato nulla?
+- Credevo che te la saresti fatta crescere.
+
+776
+01:00:03,436 --> 01:00:06,356
+E non sarebbe sembrata
+realistica, no?
+
+777
+01:00:06,523 --> 01:00:08,858
+Quando sono fatte bene, sono
+perfettamente convincenti.
+
+778
+01:00:09,025 --> 01:00:10,985
+Ma capisco. Va bene così.
+
+779
+01:00:11,152 --> 01:00:13,530
+Dammi qualche spruzzata di
+Air de Panache, per favore.
+
+780
+01:00:15,281 --> 01:00:18,535
+- Posso averne una spruzzata?
+- Ho dimenticato l'Air de Panache.
+
+781
+01:00:18,910 --> 01:00:21,371
+Hai sul serio dimenticato
+l'Air de Panache?
+
+782
+01:00:21,538 --> 01:00:24,499
+Non ci credo, come hai potuto?
+
+783
+01:00:24,874 --> 01:00:27,836
+Sono stato in galera, Zero!
+Riesci ad immaginare quanto sia umiliante?
+
+784
+01:00:28,003 --> 01:00:30,005
+Puzzo.
+
+785
+01:00:32,007 --> 01:00:33,925
+Meraviglioso, vero?
+
+786
+01:00:34,134 --> 01:00:37,887
+Immagino non ci si posso aspettare di
+meglio a... di dove sei tu?
+
+787
+01:00:38,054 --> 01:00:39,472
+- Aq Salim al-Jabat.
+- Esatto.
+
+788
+01:00:39,848 --> 01:00:42,267
+Immagino non ci si posso aspettare di
+meglio a Aq Salim al-Jabat
+
+789
+01:00:42,434 --> 01:00:43,852
+dove i più preziosi
+beni personali
+
+790
+01:00:44,019 --> 01:00:45,979
+sono una pila di tappeti polverosi
+e una capra morta di fame,
+
+791
+01:00:46,062 --> 01:00:49,899
+e si dorme sotto una tenda,
+tentando di sopravvivere agli scoprioni.
+
+792
+01:00:50,066 --> 01:00:52,485
+Ma non è così che ti
+ho addestrato.
+
+793
+01:00:52,861 --> 01:00:54,362
+Quale demonio ti ha posseduto
+convincendoti a lasciare
+
+794
+01:00:54,446 --> 01:00:55,966
+la terra cui così
+chiaramente appartieni
+
+795
+01:00:56,031 --> 01:00:58,950
+e a percorrere distanze inusitate
+per diventare un immigrato morto di fame
+
+796
+01:00:59,159 --> 01:01:01,077
+in una società colta
+e raffinata
+
+797
+01:01:01,286 --> 01:01:04,289
+che, in tutta onestà, poteva
+tranquillamente fare a meno di te?
+
+798
+01:01:05,206 --> 01:01:06,207
+La guerra.
+
+799
+01:01:07,334 --> 01:01:08,585
+Come dici?
+
+800
+01:01:08,918 --> 01:01:10,962
+Beh, vede, mio padre è
+stato assassinato
+
+801
+01:01:11,171 --> 01:01:13,631
+e il resto della mia famiglia
+giustiziato da un plotone d'esecuzione.
+
+802
+01:01:14,049 --> 01:01:15,489
+Il nostro villaggio è stato
+raso al suolo
+
+803
+01:01:15,550 --> 01:01:18,928
+e i superstiti sono stati
+costretti a fuggire.
+
+804
+01:01:19,054 --> 01:01:20,930
+Sono partito a causa della guerra.
+
+805
+01:01:21,890 --> 01:01:25,477
+Capisco. Quindi sei più che altro
+un rifugiato politico, giusto?
+
+806
+01:01:26,603 --> 01:01:27,604
+Giusto.
+
+807
+01:01:27,937 --> 01:01:31,524
+Beh, suppongo quindi di dovermi
+rimangiare tutto ciò che ho detto.
+
+808
+01:01:32,901 --> 01:01:35,987
+Che stupido idiota, che sono.
+Un patetico idiota.
+
+809
+01:01:36,196 --> 01:01:38,281
+Dio, che bastardo egoista.
+
+810
+01:01:38,448 --> 01:01:41,493
+Ciò è vergognoso, ed è ben sotto
+gli standard del Grand Budapest.
+
+811
+01:01:43,244 --> 01:01:45,288
+Mi scuso a nome dell'hotel.
+
+812
+01:01:45,455 --> 01:01:47,916
+Non è colpa sua. Era solo arrabbiato
+perché ho dimenticato il profumo.
+
+813
+01:01:48,083 --> 01:01:52,087
+Non è una giustificazione.
+Ti devo la vita.
+
+814
+01:01:52,253 --> 01:01:56,132
+Tu sei un caro amico e protetto
+e io sono orgoglioso di te.
+
+815
+01:01:56,341 --> 01:01:58,551
+Devi tenerlo a mente.
+
+816
+01:01:58,927 --> 01:02:00,929
+Sono desolato, Zero.
+
+817
+01:02:02,389 --> 01:02:04,391
+Siamo fratelli.
+
+818
+01:02:12,524 --> 01:02:14,526
+Come sta la nostra cara Agatha?
+
+819
+01:02:17,112 --> 01:02:20,323
+"Fu all'albore che véi nella
+brughiera il tuo sembiante,
+
+820
+01:02:20,490 --> 01:02:23,159
+"e dunque vi ritornai,
+ad ogni aurora, mesmerizzato,
+
+821
+01:02:23,368 --> 01:02:26,287
+"a onta dell'aceto che m'inaspriva
+il petto, poiché mai..."
+
+822
+01:02:26,413 --> 01:02:29,165
+Molto bene. Ti fermo qui perché
+è suonato l'allarme,
+
+823
+01:02:29,290 --> 01:02:32,669
+ma ricorda dove sei arrivato perché
+insisterò che tu continui più tardi.
+
+824
+01:02:50,687 --> 01:02:53,481
+Voglio posti di blocco ad ogni
+incrocio nel raggio di 50km.
+
+825
+01:02:53,648 --> 01:02:56,401
+Bloccate i treni ad ogni stazione
+nel raggio di 100km.
+
+826
+01:02:56,651 --> 01:02:59,529
+Voglio 50 uomini e 10 segugi
+pronti in 5 minuti.
+
+827
+01:02:59,654 --> 01:03:03,033
+Perquisiamo ogni Pretzel-Haus,
+Waffel-hut, Biergarten
+
+828
+01:03:03,158 --> 01:03:06,995
+e soprattutto ogni Grand Hotel
+da Augenzburg a Zilchbrock.
+
+829
+01:03:07,245 --> 01:03:09,164
+Quegli uomini sono pericolosi
+criminali professionisti.
+
+830
+01:03:09,372 --> 01:03:11,416
+O almeno lo sono tre di loro.
+
+831
+01:03:11,583 --> 01:03:12,584
+Chi è lei?
+
+832
+01:03:15,128 --> 01:03:17,714
+Che sta facendo qui? Ai civili è
+vietato l'accesso alle celle.
+
+833
+01:03:18,006 --> 01:03:21,092
+- Questa è un indagine militare.
+- È Mr. Jopling, signore.
+
+834
+01:03:21,176 --> 01:03:23,345
+La madre del suo datore di lavoro
+era una delle vittime...
+
+835
+01:03:23,470 --> 01:03:25,722
+Silenzio.
+
+836
+01:03:26,723 --> 01:03:29,184
+Lavori per la famiglia
+Desgoffe und Taxis?
+
+837
+01:03:29,351 --> 01:03:33,313
+Sei a conoscenza dell'omicidio del
+Vice Vilmos Kovacs, il 23 Ottobre?
+
+838
+01:03:33,480 --> 01:03:35,732
+Sono a conoscenza della sua scomparsa.
+
+839
+01:03:36,149 --> 01:03:38,568
+Il suo cadavere è stato trovato
+in un sarcofago dietro un ripostiglio
+
+840
+01:03:38,693 --> 01:03:40,320
+nel Kunstmuseum a tarda notte.
+
+841
+01:03:40,528 --> 01:03:43,198
+Gli mancavano quattro dita.
+
+842
+01:03:43,365 --> 01:03:46,117
+- Cosa sa di tutto questo?
+- Niente.
+
+843
+01:03:47,619 --> 01:03:49,621
+Scortate Mr. Jopling
+fuori dall'edificio.
+
+844
+01:04:00,215 --> 01:04:02,217
+Mendl.
+
+845
+01:04:07,055 --> 01:04:09,224
+Centralino, mi passi l'Excelsion Palace
+di Baden-Jurgen,
+
+846
+01:04:09,391 --> 01:04:10,809
+chiamata a carico del destinatario.
+
+847
+01:04:11,184 --> 01:04:13,061
+Non abbiamo scelta.
+Non possiamo fare altro.
+
+848
+01:04:13,228 --> 01:04:14,479
+Attendo, grazie.
+
+849
+01:04:14,604 --> 01:04:17,357
+Non fosse la nostra sola speranza, non avrei
+neppure dovuto dirti della sua esistenza
+
+850
+01:04:17,524 --> 01:04:20,404
+È sottinteso che non dovrai mai
+parlarne ad anima viva.
+
+851
+01:04:20,527 --> 01:04:22,447
+- Giuri?
+- Certo. Ma di cosa si tratta?
+
+852
+01:04:22,487 --> 01:04:23,571
+Non posso dirtelo.
+
+853
+01:04:26,324 --> 01:04:28,118
+Come si trovano due poltrone
+di prima fila in galleria
+
+854
+01:04:28,326 --> 01:04:31,538
+per una prima all'Opera Toscana
+con un sol giorno di preavviso?
+
+855
+01:04:31,663 --> 01:04:33,248
+Come si organizza
+una visione privata
+
+856
+01:04:33,456 --> 01:04:36,251
+della collezione di arazzi
+alla Royal Saxon Gallery?
+
+857
+01:04:36,418 --> 01:04:38,253
+Come si prenota un
+tavolo ad angolo
+
+858
+01:04:38,420 --> 01:04:40,547
+allo Chez Dominique
+il Venerdì sera?
+
+859
+01:04:40,672 --> 01:04:43,091
+Ivan, caro, sono Gustave.
+
+860
+01:04:43,258 --> 01:04:45,260
+Beh, lo ero fino a
+circa 5 minuti fa.
+
+861
+01:04:45,468 --> 01:04:48,555
+Ci siamo presi la responsabilità
+di andar via prima, se così si può dire.
+
+862
+01:04:48,680 --> 01:04:51,266
+Beh, attraverso le
+fognature. Esattamente.
+
+863
+01:04:51,433 --> 01:04:54,185
+Ascolti, Ivan, mi dispiace
+interromperla, ma siamo nei guai.
+
+864
+01:04:54,269 --> 01:04:55,812
+È una richiesta ufficiale.
+
+865
+01:04:56,146 --> 01:04:59,274
+Richiedo formalmente i servizi della...
+
+866
+01:05:04,487 --> 01:05:05,822
+La richiamo, Gustave.
+
+867
+01:05:06,239 --> 01:05:08,158
+Bene. Attendia
+
+868
+01:05:08,366 --> 01:05:11,494
+Mi perdoni.
+Preferisce andare a piedi?
+
+869
+01:05:11,661 --> 01:05:13,580
+Siamo qui. È molto semplice.
+
+870
+01:05:13,788 --> 01:05:15,790
+Giù per la cengia, poi a sinistra.
+
+871
+01:05:16,124 --> 01:05:18,126
+Jojo, accompagna il signore
+alla porta.
+
+872
+01:05:20,837 --> 01:05:23,298
+Mi passi Monsieur Georges
+dello Chateau Luxe, per favore.
+
+873
+01:05:28,636 --> 01:05:29,637
+Continua tu.
+
+874
+01:05:31,431 --> 01:05:32,599
+Pronto, Ivan?
+
+875
+01:05:34,726 --> 01:05:36,603
+D'accordo.
+
+876
+01:05:36,811 --> 01:05:39,606
+Mi passi Monsieur Dino
+del Palazzo Principessa, per favore.
+
+877
+01:05:41,399 --> 01:05:43,735
+In alto, dannazione,
+più in alto!
+
+878
+01:05:45,612 --> 01:05:47,364
+Continua tu.
+
+879
+01:05:47,489 --> 01:05:49,157
+<i>- Monsieur Georges.</i>
+- Più in alto.
+
+880
+01:05:49,324 --> 01:05:51,451
+Capisco. Immediatamente.
+
+881
+01:05:52,869 --> 01:05:55,455
+Mi passi Monsieur Robin
+dell'Hotel Côte du Cap, per favore.
+
+882
+01:05:57,290 --> 01:05:59,209
+...due e tre.
+
+883
+01:06:00,418 --> 01:06:03,296
+Monsieur Robin. C'è una chiamata
+per lei da Monsieur Dino.
+
+884
+01:06:03,463 --> 01:06:05,465
+Continua tu.
+
+885
+01:06:06,758 --> 01:06:09,552
+- Uno, due e tre.
+<i>- Sì, Dino.</i>
+
+886
+01:06:09,719 --> 01:06:13,139
+Sì, Dino. Okay, Dino.
+
+887
+01:06:14,766 --> 01:06:17,435
+Mi passi Monsieur Martin
+del Ritz Imperial, per favore.
+
+888
+01:06:19,229 --> 01:06:20,939
+Troppo sale.
+
+889
+01:06:21,231 --> 01:06:24,150
+Troppo poco pepe.
+
+890
+01:06:24,359 --> 01:06:26,361
+Continua tu.
+
+891
+01:06:28,405 --> 01:06:30,490
+<i>- Robin? Sono Martin.</i>
+- Troppo sale.
+
+892
+01:06:30,615 --> 01:06:32,617
+L'ho sentito, sì.
+
+893
+01:06:33,910 --> 01:06:36,871
+Forse. Faccio qualche chiamata.
+
+894
+01:06:41,918 --> 01:06:44,504
+Serge X, scomparso.
+Vice Kovacs, scomparso anche lui.
+
+895
+01:06:44,671 --> 01:06:47,549
+Madame D, morta.
+Ragazzo con Mela, rubato, da noi.
+
+896
+01:06:47,674 --> 01:06:50,260
+Dmitri e Jopling, spietati
+barbari senza scrupoli.
+
+897
+01:06:50,427 --> 01:06:53,638
+Gustave H, latitante.
+Cos'altro?
+
+898
+01:06:53,763 --> 01:06:56,516
+- Zero, confuso.
+- Zero, confuso, certo.
+
+899
+01:06:56,683 --> 01:06:58,810
+La trama si infittisce,
+come si suol dire.
+
+900
+01:06:59,227 --> 01:07:01,688
+Perché, poi?
+È una metafora boschiva?
+
+901
+01:07:01,896 --> 01:07:03,898
+Non so.
+
+902
+01:07:08,778 --> 01:07:10,447
+Entrate.
+
+903
+01:07:12,782 --> 01:07:14,200
+Abbiamo trovato il maggiordomo.
+
+904
+01:07:14,409 --> 01:07:17,245
+Si nasconde sul remoto pendio
+presso il Picco di Gabelmeister.
+
+905
+01:07:17,412 --> 01:07:19,497
+Il nostro contatto l'ha convinto
+ad incontrarvi domani a mezzogiorno.
+
+906
+01:07:19,664 --> 01:07:20,985
+All'osservatorio sulla cima.
+
+907
+01:07:21,291 --> 01:07:23,543
+Non ditelo a nessuno.
+Vi spiegherà tutto.
+
+908
+01:07:23,793 --> 01:07:25,837
+Il vostro treno parte tra
+4 minuti e mezzo.
+
+909
+01:07:25,962 --> 01:07:27,505
+Ecco i biglietti.
+
+910
+01:07:27,672 --> 01:07:29,841
+- Terza classe?
+- Era sovraffollato
+
+911
+01:07:30,258 --> 01:07:33,720
+ma il bigliettaio era sommelier
+al vecchio Versailles.
+
+912
+01:07:33,845 --> 01:07:34,971
+Vi ha raccomandato.
+
+913
+01:07:35,430 --> 01:07:37,432
+Vi serviranno queste per
+il vagone ristorante.
+
+914
+01:07:40,310 --> 01:07:42,312
+Un'ultima cosa.
+
+915
+01:07:43,855 --> 01:07:45,857
+L'Air de Penache.
+
+916
+01:07:48,485 --> 01:07:50,612
+Lo avevano solo da mezza oncia.
+
+917
+01:07:54,824 --> 01:07:56,826
+Dobbiamo offrirgli qualcosa
+come gesto simbolico.
+
+918
+01:07:56,993 --> 01:07:59,412
+- Quanti soldi hai?
+- 42 Klubeck e 3 francobolli.
+
+919
+01:07:59,579 --> 01:08:01,581
+Dammene 25. Su.
+
+920
+01:08:05,335 --> 01:08:08,254
+- Grazie infinite.
+- La prego.
+
+921
+01:08:25,021 --> 01:08:26,701
+- Devo ammettere che è stato bravo.
+<i>- Cristo santo.</i>
+
+922
+01:08:26,773 --> 01:08:30,610
+Non me l'aspettavo.
+Beh, cosa vuoi che faccia ora?
+
+923
+01:08:30,777 --> 01:08:36,032
+<i>Parla di nuovo con la sorella zoppa,
+e stavolta sii convincente.</i>
+
+924
+01:08:43,373 --> 01:08:46,001
+Dannato figlio di puttana.
+
+925
+01:09:09,649 --> 01:09:11,651
+Cristo in croce!
+
+926
+01:09:15,905 --> 01:09:18,825
+Che cazzo significa?
+
+927
+01:09:18,950 --> 01:09:20,660
+Ragazzo con Mela? Pensavo
+l'avessi nascosto.
+
+928
+01:09:20,744 --> 01:09:23,121
+- Perché te ne accorgi solo ora?
+- Credevo lo stesse esaminando un perito.
+
+929
+01:09:23,496 --> 01:09:27,542
+Mi state prendendo per il culo?
+
+930
+01:09:27,709 --> 01:09:30,545
+Credo sia stato preso
+da Monsieur Gustave.
+
+931
+01:09:38,428 --> 01:09:39,512
+Non sono arrabbiato
+con Serge.
+
+932
+01:09:39,721 --> 01:09:42,098
+Non puoi prendertela con qualcuno
+per la totale mancanza di fibra morale.
+
+933
+01:09:42,432 --> 01:09:44,392
+È un piccolo, pauroso,
+pavido codardo.
+
+934
+01:09:44,601 --> 01:09:46,721
+- Non è colpa sua, no?
+- Non saprei. Dipende.
+
+935
+01:09:46,770 --> 01:09:48,450
+Beh, puoi dirlo di
+qualsiasi cosa.
+
+936
+01:09:48,480 --> 01:09:49,880
+"Dipende". Ovvio che dipende.
+
+937
+01:09:49,981 --> 01:09:51,661
+"Ovvio che dipende",
+ovviamente dipende.
+
+938
+01:09:51,775 --> 01:09:53,860
+Sì, credo tu abbia ragione.
+Ovviamente dipende.
+
+939
+01:09:54,069 --> 01:09:57,614
+Questo non significa che non
+strozzerò quel piccolo topo di fogna.
+
+940
+01:09:59,991 --> 01:10:04,412
+Ad ogni modo, posso sposarvi?
+Celebrare le nozze?
+
+941
+01:10:04,621 --> 01:10:05,622
+Con piacere.
+
+942
+01:10:05,747 --> 01:10:08,458
+Devo dire che trovo quella
+ragazza assolutamente deliziosa.
+
+943
+01:10:08,625 --> 01:10:10,043
+Piatta come una tavola,
+con quell'enorme voglia
+
+944
+01:10:10,418 --> 01:10:12,003
+a forma di Messico
+sul suo viso,
+
+945
+01:10:12,420 --> 01:10:14,506
+a sudare per ore ed ore
+in quella afosa cucina
+
+946
+01:10:14,631 --> 01:10:15,965
+mentre Mendl, per genio che sia,
+
+947
+01:10:16,132 --> 01:10:17,759
+incombe su di lei come
+un goffo gorilla.
+
+948
+01:10:17,967 --> 01:10:20,095
+Eppure senza dubbio,
+senza tema d'errore,
+
+949
+01:10:20,470 --> 01:10:23,640
+Lei è sempre e comunque
+incredibilmente deliziosa.
+
+950
+01:10:23,765 --> 01:10:25,016
+Perché?
+
+951
+01:10:25,433 --> 01:10:27,894
+Per la sua purezza.
+
+952
+01:10:29,979 --> 01:10:32,190
+Anche lei l'ammira,
+Monsieur Gustave.
+
+953
+01:10:32,482 --> 01:10:35,068
+- Davvero?
+- Molto.
+
+954
+01:10:35,485 --> 01:10:39,114
+È un buon segno, sai.
+Significa che ne capisce.
+
+955
+01:10:39,489 --> 01:10:41,491
+È importante.
+
+956
+01:10:43,827 --> 01:10:45,829
+Non ci provi con lei.
+
+957
+01:11:31,750 --> 01:11:35,086
+Un telegramma è stato consegnato
+personalmente alla ragazza alle 4.
+
+958
+01:11:35,211 --> 01:11:37,964
+La busta era vicina al cadavere,
+ma il contenuto non c'era.
+
+959
+01:11:38,757 --> 01:11:41,968
+In ogni caso, l'ufficio telegrafico
+conserva una copia dei nastri per 24 ore.
+
+960
+01:11:42,052 --> 01:11:44,220
+L'ho ricopiato,
+ed eccolo qui:
+
+961
+01:11:45,221 --> 01:11:46,556
+"Fa' le valigie, stop.
+
+962
+01:11:46,765 --> 01:11:48,850
+"Sii pronta a partire in qualsiasi
+momento, stop.
+
+963
+01:11:48,975 --> 01:11:51,561
+"Il nascondiglio è presso
+il Picco di Gabelmeister, stop.
+
+964
+01:11:51,728 --> 01:11:54,064
+"Distruggi questo messaggio,
+con affetto, stop."
+
+965
+01:11:55,106 --> 01:11:56,941
+Dov'è il cesto?
+
+966
+01:12:22,217 --> 01:12:24,219
+Come mai da queste
+parti, signore?
+
+967
+01:12:27,972 --> 01:12:30,225
+Scia? Va in slitta? S'arrampica?
+
+968
+01:12:40,026 --> 01:12:41,986
+3 Klubeck.
+
+969
+01:12:52,122 --> 01:12:53,915
+<i>Tramite corriere espresso,
+scrissi ad Agatha</i>
+
+970
+01:12:54,124 --> 01:12:56,918
+<i>dicendole di raggiungerci
+al nostro nascondiglio.</i>
+
+971
+01:12:57,043 --> 01:12:59,629
+<i>una campo di Zingari
+un po' fuori Nebelsbad,</i>
+
+972
+01:12:59,838 --> 01:13:01,631
+<i>mentre io e Monsieur Gustave
+continuavamo ad est</i>
+
+973
+01:13:01,840 --> 01:13:03,133
+<i>attraverso le Alpi Zubrowkiane,</i>
+
+974
+01:13:03,341 --> 01:13:07,137
+<i>Verso il nostro randez-vous
+ad alta quota col maggiordomo Serge X.</i>
+
+975
+01:13:09,055 --> 01:13:11,307
+<i>Per precauzione, scendemmo
+dal treno di nascosto</i>
+
+976
+01:13:11,683 --> 01:13:14,019
+<i>allo scalo merci appena
+fuori dalla stazione.</i>
+
+977
+01:13:21,693 --> 01:13:23,361
+Air de Penache.
+
+978
+01:13:34,039 --> 01:13:36,519
+Gran panorama. Devo
+concederglielo, per quel che vale.
+
+979
+01:13:36,666 --> 01:13:38,668
+Sono d'accordo.
+
+980
+01:13:49,721 --> 01:13:53,099
+"È sovente rimarcato come
+verun niveo bioccolo
+
+981
+01:13:53,266 --> 01:13:56,936
+- "pur nella sua più tersa e perfetta foggia..."
+- Arriva qualcuno.
+
+982
+01:13:59,397 --> 01:14:02,734
+È lei Monsieur Gustave del Grand
+Budapest Hotel di Nebelsbad?
+
+983
+01:14:03,559 --> 01:14:05,403
+Entrate nella prossima funivia.
+
+984
+01:14:45,026 --> 01:14:48,363
+È lei Monsieur Gustave del Grand
+Budapest Hotel di Nebelsbad?
+
+985
+01:14:49,538 --> 01:14:50,824
+Cambiate posto con me.
+
+986
+01:15:20,311 --> 01:15:23,164
+È lei Monsieur Gustave del Grand
+Budapest Hotel di Nebelsbad?
+
+987
+01:15:24,073 --> 01:15:26,067
+Indossate queste e cantate.
+
+988
+01:15:54,179 --> 01:15:56,765
+- È lei Monsieur Gustave del...
+- Sì, dannazione.
+
+989
+01:15:56,931 --> 01:15:57,932
+Si confessi.
+
+990
+01:15:58,099 --> 01:15:59,934
+Sono innocente.
+
+991
+01:16:00,101 --> 01:16:01,978
+Eh? No, no.
+
+992
+01:16:11,363 --> 01:16:14,115
+Mi perdoni, Monsieur Gustave,
+non volevo tradirla.
+
+993
+01:16:14,240 --> 01:16:17,202
+Mi hanno minacciato di morte e ora
+hanno assassinato la mia sola familiare.
+
+994
+01:16:17,369 --> 01:16:19,037
+No. Chi hanno ucciso
+questa volta?
+
+995
+01:16:19,204 --> 01:16:21,498
+- La mia amata sorella.
+- La ragazza con la gamba di legno?
+
+996
+01:16:21,873 --> 01:16:23,208
+- Sì.
+- Maledetti bastardi!
+
+997
+01:16:23,375 --> 01:16:24,876
+Ho provato ad avvertirla
+all'inizio.
+
+998
+01:16:25,043 --> 01:16:26,378
+Lo so, amico mio.
+Lasciamoci tutto alle spalle.
+
+999
+01:16:26,544 --> 01:16:29,798
+Ascolti, odio metterla in difficoltà,
+ma devo proprio chiederle di riabilitarmi.
+
+1000
+01:16:29,964 --> 01:16:33,009
+- Ovviamente è a lutto, ma...
+- C'è di più.
+
+1001
+01:16:33,218 --> 01:16:34,539
+- In questa storia.
+- Ho capito, vada avanti.
+
+1002
+01:16:34,644 --> 01:16:36,846
+Sono stato testimone ufficiale,
+in presenza di Madame D
+
+1003
+01:16:37,013 --> 01:16:38,473
+della stesura di un secondo
+testamento
+
+1004
+01:16:38,848 --> 01:16:41,893
+di cui tener conto solo in caso
+di morte violenta.
+
+1005
+01:16:42,018 --> 01:16:43,436
+- Un secondo testamento?
+- Esatto.
+
+1006
+01:16:43,512 --> 01:16:45,292
+- In caso fosse fatta fuori.
+- Esatto.
+
+1007
+01:16:45,397 --> 01:16:46,940
+- E...?
+- Ma l'hanno distrutto.
+
+1008
+01:16:47,107 --> 01:16:48,483
+- Oh no.
+- Però...
+
+1009
+01:16:48,858 --> 01:16:50,276
+- Sì...?
+- Ne ho stampato una copia.
+
+1010
+01:16:50,402 --> 01:16:52,487
+Una seconda copia del
+secondo testamento?
+
+1011
+01:16:52,904 --> 01:16:54,155
+- Esatto.
+- E...?
+
+1012
+01:16:56,908 --> 01:16:59,228
+Cosa dice? Dov'è?
+Di che diavolo parliamo?
+
+1013
+01:16:59,285 --> 01:17:02,122
+Non ci tenga sulle spine.
+Questo è un fottuto incubo.
+
+1014
+01:17:02,288 --> 01:17:04,833
+Ci dica cosa cazzo succede!
+
+1015
+01:17:06,501 --> 01:17:10,088
+Serge? Serge? Serge!
+
+1016
+01:17:13,925 --> 01:17:16,177
+Diavoli dell'inferno.
+L'hanno strangolato, pover'uomo.
+
+1017
+01:17:44,164 --> 01:17:45,165
+Presto! Andiamo!
+
+1018
+01:17:53,131 --> 01:17:55,300
+- Che facciamo se lo prendiamo?
+- Non ne ho idea.
+
+1019
+01:17:55,467 --> 01:17:57,886
+È un assassino psicopatico.
+Fermiamoci.
+
+1020
+01:17:58,094 --> 01:18:00,305
+Non posso.
+Riesco a malapena a sterzare.
+
+1021
+01:19:08,164 --> 01:19:11,668
+Patetico, viscido verme.
+Ti odio.
+
+1022
+01:19:24,431 --> 01:19:28,309
+" 'Ebbene se così fatta dev'essere
+la mia fine, sia!' vagì il pifferaio,
+
+1023
+01:19:29,978 --> 01:19:32,439
+"intanto che gli archibugi tuonavano
+e i birri ruggivano di piacere.
+
+1024
+01:19:32,605 --> 01:19:33,732
+"Alché i bastioni rovinarono.
+
+1025
+01:19:35,442 --> 01:19:39,112
+" 'Credo d'aver ingollato
+la mia ultima lena' si disse..."
+
+1026
+01:19:39,279 --> 01:19:41,197
+Santo cielo! L'hai fottuto!
+
+1027
+01:19:41,406 --> 01:19:43,324
+Ben fatto, Zero!
+
+1028
+01:19:54,461 --> 01:19:56,713
+<i>Gustave H! Lei è evaso
+e in fuga dalla giustizia!</i>
+
+1029
+01:19:57,130 --> 01:19:59,591
+<i>Si consegni e garantirò
+personalmente</i>
+
+1030
+01:20:00,050 --> 01:20:01,051
+<i>che sarà trattato
+equamente.</i>
+
+1031
+01:20:01,134 --> 01:20:02,552
+<i>Non provi a scappare ancora!</i>
+
+1032
+01:20:02,761 --> 01:20:04,346
+- Cosa ne pensa?
+- Non lo so.
+
+1033
+01:20:04,471 --> 01:20:07,490
+Mi lancerei nello strapiombo seduta
+stante piuttosto che tornare in galera.
+
+1034
+01:20:07,599 --> 01:20:10,101
+Proposta: rubiamo la moto al maniaco,
+recuperiamo Agatha,
+
+1035
+01:20:10,310 --> 01:20:13,310
+ci riprendiamo Ragazzo con Mela
+e via sulla Riviera Maltese.
+
+1036
+01:20:13,313 --> 01:20:16,107
+Perfetto! Sei straordinario,
+Zero. Grazie.
+
+1037
+01:20:16,232 --> 01:20:18,651
+Un momento di silenzio
+per un servo devoto
+
+1038
+01:20:19,027 --> 01:20:21,613
+ucciso brutalmente durante
+l'esercizio delle sue mansioni.
+
+1039
+01:20:24,574 --> 01:20:26,576
+Ciao, Serge.
+
+1040
+01:20:28,161 --> 01:20:30,163
+Ok, andiamo.
+
+1041
+01:20:42,842 --> 01:20:44,678
+<i>La guerra iniziò a mezzanotte.</i>
+
+1042
+01:20:44,803 --> 01:20:47,389
+<i>Pffeifelstadt cadde a ora di
+pranzo, sotto i bombardamenti,</i>
+
+1043
+01:20:47,555 --> 01:20:50,809
+<i>e 10 battaglioni si
+rovesciarono sul confine occidentale</i>
+
+1044
+01:20:51,184 --> 01:20:52,811
+<i>Il comando supremo entrò
+a Nebelsbad.</i>
+
+1045
+01:21:05,198 --> 01:21:08,702
+Gli omaggi di Herr Mendl
+allo staff esecutivo.
+
+1046
+01:21:11,830 --> 01:21:15,166
+Il Generale Stieglitz vuole una stanza
+con vista sul giardino e cabina armadio.
+
+1047
+01:21:15,333 --> 01:21:17,293
+Mettetelo nella Suite
+Duca Leopoldo.
+
+1048
+01:21:17,460 --> 01:21:19,212
+L'ufficio del Segretario
+Woroniecki è stato cablato.
+
+1049
+01:21:19,379 --> 01:21:22,841
+Arriva un giorno prima del previsto.
+Camere 401, 402 e 403.
+
+1050
+01:21:23,174 --> 01:21:24,775
+Dica al reparto tattico
+che li spostiamo
+
+1051
+01:21:24,843 --> 01:21:26,469
+in una doppia al
+terzo piano.
+
+1052
+01:21:26,636 --> 01:21:28,513
+A loro servirà più spazio.
+
+1053
+01:21:51,578 --> 01:21:56,332
+L'inizio della fine della fine
+dell'inizio ha inizio.
+
+1054
+01:21:56,458 --> 01:21:59,502
+Un gramo "Gran Finale" stonato
+su un pianoforte scordato
+
+1055
+01:21:59,669 --> 01:22:02,339
+in un saloon ai margini di una
+città fantasma dimenticata.
+
+1056
+01:22:02,464 --> 01:22:04,466
+Non porterò testimonianza
+di questa blasfemia.
+
+1057
+01:22:04,632 --> 01:22:05,633
+Neppure io.
+
+1058
+01:22:05,800 --> 01:22:08,219
+Il Grand Budapest è diventato
+un'accampamento militare.
+
+1059
+01:22:08,428 --> 01:22:10,805
+Non attraverserò mai più il suo
+uscio in tutta la mia vita.
+
+1060
+01:22:11,139 --> 01:22:12,619
+- Neppure io.
+- Mai più poserò pied...
+
+1061
+01:22:12,766 --> 01:22:15,769
+In realtà, credo che potremmo
+starci entrando ora, dopo tutto.
+
+1062
+01:22:17,562 --> 01:22:19,147
+Dmitri.
+
+1063
+01:22:21,941 --> 01:22:23,693
+Agatha.
+
+1064
+01:22:34,454 --> 01:22:36,695
+Buona sera, Mr. Desgoffe und Taxis.
+Sono Monsieur Chuck.
+
+1065
+01:22:36,706 --> 01:22:39,918
+Abbiamo sistemato lei e le sue
+sorelle nella Suite Re Ferdinando.
+
+1066
+01:22:40,293 --> 01:22:42,253
+Buona sera.
+Il Generale von Shrecker mi ha chiesto di...
+
+1067
+01:22:42,420 --> 01:22:45,256
+- Chi è quella?
+- Come scusi?
+
+1068
+01:22:45,382 --> 01:22:48,176
+Credo che quella ragazza abbia
+il quadro. Mi scusi.
+
+1069
+01:23:04,651 --> 01:23:06,653
+- Sesto.
+- Aspetti.
+
+1070
+01:23:09,823 --> 01:23:10,865
+Sesto.
+
+1071
+01:23:13,993 --> 01:23:15,829
+Omaggi da Herr Mendl.
+
+1072
+01:23:31,970 --> 01:23:32,971
+Chiedo scusa.
+
+1073
+01:23:33,304 --> 01:23:35,505
+Hai visto una pasticciera
+con un pacco sottobraccio
+
+1074
+01:23:35,557 --> 01:23:36,757
+nell'ultimo minuto e mezzo?
+
+1075
+01:23:36,850 --> 01:23:39,310
+Sì. È appena entrata in ascensore
+con Mr. Desgoffe und Taxis.
+
+1076
+01:23:39,436 --> 01:23:41,604
+Grazie.
+
+1077
+01:23:41,771 --> 01:23:43,314
+Scusami.
+Chi sei tu?
+
+1078
+01:23:43,440 --> 01:23:46,693
+- Otto, signore, il nuovo Lobby Boy.
+- Non sei stato addestrato bene.
+
+1079
+01:23:46,860 --> 01:23:48,945
+Un Lobby Boy non dà mai
+informazioni del genere.
+
+1080
+01:23:49,320 --> 01:23:51,406
+Sei un muro di pietra.
+Chiaro?
+
+1081
+01:24:08,006 --> 01:24:09,674
+Bel quadro.
+
+1082
+01:24:10,550 --> 01:24:11,551
+Sesto piano.
+
+1083
+01:24:55,387 --> 01:24:56,971
+Dove'è Ragazzo con Mela?
+
+1084
+01:24:57,931 --> 01:25:00,350
+Non sono affaracci tuoi!
+
+1085
+01:25:00,975 --> 01:25:04,729
+Farò saltare in aria il tuo culo da
+femminuccia una volta per tutte.
+
+1086
+01:25:14,072 --> 01:25:15,699
+Metti giù la pistola!
+
+1087
+01:25:37,887 --> 01:25:39,806
+Cessate il fuoco! Cessate il fuoco!
+
+1088
+01:25:40,015 --> 01:25:41,474
+Piantatela!
+
+1089
+01:25:41,641 --> 01:25:43,101
+Chi sta sparando a chi?
+
+1090
+01:25:43,435 --> 01:25:45,854
+Quello è Gustave H!
+Assassino latitante e ladro d'arte.
+
+1091
+01:25:46,021 --> 01:25:47,147
+L'ho preso in trappola!
+
+1092
+01:25:47,522 --> 01:25:48,857
+Quello è Dmitri Desgoffe und Taxis!
+
+1093
+01:25:49,024 --> 01:25:51,026
+Responsabile per gli omicidi
+del Vice Kovacs,
+
+1094
+01:25:51,359 --> 01:25:54,029
+Serge X e la sua sorella zoppa,
+e della sua stessa madre!
+
+1095
+01:25:55,697 --> 01:25:57,824
+Nessuno si muova.
+Siete tutti in arresto.
+
+1096
+01:25:59,159 --> 01:26:01,578
+Chi c'è fuori alla finestra?
+
+1097
+01:26:01,703 --> 01:26:03,705
+Agatha!
+
+1098
+01:26:09,878 --> 01:26:10,920
+310 bis.
+
+1099
+01:26:11,046 --> 01:26:12,464
+Resisti! Arrivo!
+
+1100
+01:26:37,572 --> 01:26:39,574
+C'è qualcosa dietro il...
+
+1101
+01:26:45,163 --> 01:26:46,164
+Agatha!
+
+1102
+01:26:46,498 --> 01:26:48,083
+Agatha!
+
+1103
+01:26:48,416 --> 01:26:50,418
+- Stai bene?
+- Credo di sì.
+
+1104
+01:26:51,961 --> 01:26:53,922
+C'è qualcosa dietro il quadro.
+
+1105
+01:27:07,435 --> 01:27:10,063
+<i>Aveva lasciato tutto a
+Monsieur Gustave, ovviamente.</i>
+
+1106
+01:27:12,065 --> 01:27:14,526
+<i>La magione, nota col nome
+di Schloss Lutz,</i>
+
+1107
+01:27:15,944 --> 01:27:19,030
+<i>le fabbriche, che producevano
+armi, medicine e tessuti,</i>
+
+1108
+01:27:21,950 --> 01:27:23,702
+<i>un importante giornale sindacale,</i>
+
+1109
+01:27:24,828 --> 01:27:27,205
+<i>e, forse c'è già arrivato,</i>
+
+1110
+01:27:27,455 --> 01:27:32,043
+<i>l'istituzione, il Grand
+Budapest Hotel.</i>
+
+1111
+01:27:33,586 --> 01:27:35,005
+<i>Mi nominò suo successore,</i>
+
+1112
+01:27:35,130 --> 01:27:38,049
+<i>e per la durata della guerra
+servii la mia patria dottiva</i>
+
+1113
+01:27:38,216 --> 01:27:42,679
+<i>da dietro la scrivania che ancora
+si trova nella stanza affianco.</i>
+
+1114
+01:27:42,971 --> 01:27:45,056
+<i>Era proprio come le sue amiche:</i>
+
+1115
+01:27:45,223 --> 01:27:48,685
+<i>insicuro, vanesio, superficiale,
+biondo, bisognoso di attenzioni.</i>
+
+1116
+01:27:49,561 --> 01:27:51,730
+<i>Alla fine era finanche ricco.</i>
+
+1117
+01:27:53,023 --> 01:27:56,151
+<i>Ma non gli riuscì di diventare decrepito.</i>
+
+1118
+01:28:00,989 --> 01:28:02,907
+Carissimi amici,
+siamo qui riuniti...
+
+1119
+01:28:03,033 --> 01:28:04,909
+Né ci riuscì la mia cara Agatha.
+
+1120
+01:28:05,118 --> 01:28:07,537
+Lei e il nostro bambino sarebbero
+stati uccisi due anni dopo
+
+1121
+01:28:07,704 --> 01:28:10,582
+dall'influenza Prussiana.
+Una malattia da nulla.
+
+1122
+01:28:10,749 --> 01:28:15,920
+Oggi la curiamo in una settimana,
+ma a quei tempi mietè milioni di vittime.
+
+1123
+01:28:19,174 --> 01:28:21,051
+La mattina del 21esimo
+giorno d'occupazione,
+
+1124
+01:28:21,176 --> 01:28:23,970
+lo stato indipendente di Zubrowka
+
+1125
+01:28:24,137 --> 01:28:25,263
+smise ufficialmente di esistere.
+
+1126
+01:28:25,597 --> 01:28:27,599
+Ci trasferimmo a Lutz
+con Monsieur Gustave.
+
+1127
+01:28:27,724 --> 01:28:29,934
+Comunque, per rispondere alla
+tua domanda di prima:
+
+1128
+01:28:30,143 --> 01:28:32,020
+certo.
+
+1129
+01:28:33,855 --> 01:28:36,733
+Zero mi chiese delle mie umili
+origini nel settore alberghiero.
+
+1130
+01:28:36,858 --> 01:28:39,110
+Sono stato, forse, per un periodo
+considerato il miglior Lobby Boy
+
+1131
+01:28:39,319 --> 01:28:41,821
+che abbia mai lavorato
+al Grand Budapest.
+
+1132
+01:28:42,030 --> 01:28:43,573
+Credo di poterlo dire.
+
+1133
+01:28:43,740 --> 01:28:45,617
+Questo qui mi ha finalmente superato.
+
+1134
+01:28:45,784 --> 01:28:48,745
+Anche se, devo dire, ha avuto
+un maestro eccezionale.
+
+1135
+01:28:48,870 --> 01:28:49,996
+Verissimo.
+
+1136
+01:28:55,210 --> 01:28:58,171
+"Donde procedono questi due
+fulgenti germani celesti,
+
+1137
+01:28:58,546 --> 01:28:59,798
+"congiunti per un attimo,
+
+1138
+01:28:59,964 --> 01:29:04,177
+"nel fendere la stratosfera
+della nostra bifora stellata?
+
+1139
+01:29:04,344 --> 01:29:07,180
+"Uno da levante,
+l'altro da ponente."
+
+1140
+01:29:07,305 --> 01:29:09,099
+Molto bene.
+
+1141
+01:29:09,307 --> 01:29:11,309
+Non ci provi con lei.
+
+1142
+01:29:13,770 --> 01:29:15,980
+Perché siamo di nuovo fermi
+su un campo d'orzo?
+
+1143
+01:29:24,239 --> 01:29:27,325
+Trovo queste uniformi nere
+piuttosto scialbe.
+
+1144
+01:29:31,955 --> 01:29:34,916
+Beh, salve, gente.
+Parlavamo giusto di voi.
+
+1145
+01:29:35,125 --> 01:29:38,920
+- Documenti.
+- Con piacere, come sempre.
+
+1146
+01:29:43,258 --> 01:29:45,093
+Lei è il primo membro degli
+squadroni della morte
+
+1147
+01:29:45,260 --> 01:29:47,679
+al quale sono ufficialmente
+presentato.
+
+1148
+01:29:47,804 --> 01:29:49,806
+Come le va?
+
+1149
+01:29:50,974 --> 01:29:54,818
+Plus ça change, dico bene?
+[NdT detto francese: più si cambia più resta tutto uguale]
+
+1150
+01:29:57,397 --> 01:30:00,900
+È un permesso di soggiorno con status
+di impiegato di terza fascia, mio caro,
+
+1151
+01:30:01,109 --> 01:30:02,110
+Legga questo.
+
+1152
+01:30:11,369 --> 01:30:14,247
+- Esca.
+- Resta lì.
+
+1153
+01:30:16,416 --> 01:30:18,835
+Le do la mia parola,
+se sfiora con un dito quest'uomo,
+
+1154
+01:30:19,002 --> 01:30:21,129
+La vedrò congedato
+con disonore,
+
+1155
+01:30:21,338 --> 01:30:24,424
+legato allo steccato e
+impiccato prima del tramonto.
+
+1156
+01:30:25,842 --> 01:30:27,719
+<i>Ci sono ancora
+fiochi barlumi di civiltà</i>
+
+1157
+01:30:27,844 --> 01:30:32,140
+<i>in questo mattatoio selvaggio che
+chiamavamo umanità.</i>
+
+1158
+01:30:35,185 --> 01:30:38,938
+Dannati, sporchi, schifosi
+stronzi fascisti!
+
+1159
+01:30:40,023 --> 01:30:42,776
+<i>Lui era uno di quelli.</i>
+
+1160
+01:30:42,901 --> 01:30:44,903
+<i>Cosa posso dire di più?</i>
+
+1161
+01:30:52,452 --> 01:30:55,163
+Com'è finita?
+
+1162
+01:30:55,330 --> 01:30:57,332
+È finita che gli hanno sparato.
+
+1163
+01:30:59,167 --> 01:31:01,169
+Dunque tutto passò a me.
+
+1164
+01:31:10,053 --> 01:31:13,264
+<i>Dopo cena, andammo a prendere
+le chiavi delle nostre stanze,</i>
+
+1165
+01:31:13,431 --> 01:31:15,308
+<i>ma Monsieur Jean non
+era al suo posto.</i>
+
+1166
+01:31:15,433 --> 01:31:17,769
+Immagino si sia dimenticato di noi.
+
+1167
+01:31:17,936 --> 01:31:19,020
+<i>Ovviamente, negli ultimi anni,</i>
+
+1168
+01:31:19,187 --> 01:31:21,398
+<i>proprietà come il Grand Budapest</i>
+
+1169
+01:31:21,773 --> 01:31:25,235
+<i>sono diventate, con ben poche
+eccezioni, beni pubblici.</i>
+
+1170
+01:31:26,236 --> 01:31:28,279
+<i>Sebbene i termini precisi
+del contratto</i>
+
+1171
+01:31:28,446 --> 01:31:30,366
+<i>con il nuovo Governo non siano
+mai stati resi pubblici,</i>
+
+1172
+01:31:30,740 --> 01:31:31,940
+<i>l'esito è evidente a tutti:</i>
+
+1173
+01:31:32,784 --> 01:31:35,370
+<i>Zero Moustafa ha versato
+un'enorme fortuna</i>
+
+1174
+01:31:35,745 --> 01:31:40,000
+<i>in cambio di un costoso,
+non redditizio, decadente hotel.</i>
+
+1175
+01:31:41,001 --> 01:31:42,002
+<i>Perché?</i>
+
+1176
+01:31:42,210 --> 01:31:44,254
+<i>Una mera questione sentimentale?</i>
+
+1177
+01:31:44,421 --> 01:31:48,216
+<i>Non era da me,
+non lo era per nulla,</i>
+
+1178
+01:31:48,341 --> 01:31:50,218
+<i>ma sentivo di doverlo sapere,</i>
+
+1179
+01:31:50,427 --> 01:31:52,429
+<i>Per la mia salute, credo.</i>
+
+1180
+01:31:55,098 --> 01:31:57,267
+Mi perdoni se gliel'ho chiesto.
+Spero di non averla offesa.
+
+1181
+01:31:57,434 --> 01:31:59,436
+Certo che no.
+
+1182
+01:32:00,478 --> 01:32:03,356
+È che rappresenta l'ultimo legame
+con quel mondo ormai svanito?
+
+1183
+01:32:03,481 --> 01:32:05,942
+Il suo mondo, se vuole?
+
+1184
+01:32:06,109 --> 01:32:07,861
+Il suo mondo?
+
+1185
+01:32:08,111 --> 01:32:11,114
+No, non credo.
+
+1186
+01:32:11,239 --> 01:32:13,324
+Vede, noi condividevamo
+già una vocazione.
+
+1187
+01:32:13,491 --> 01:32:15,243
+Non sarebbe stato necessario.
+
+1188
+01:32:15,452 --> 01:32:20,206
+No, ho tenuto l'hotel
+per Agatha.
+
+1189
+01:32:21,541 --> 01:32:22,959
+Siamo stati felici qui.
+
+1190
+01:32:23,126 --> 01:32:25,128
+Per un po'.
+
+1191
+01:32:30,425 --> 01:32:32,844
+Ad essere sinceri, credo che
+il suo mondo sia svanito
+
+1192
+01:32:33,011 --> 01:32:34,929
+molto prima che lui vi entrasse.
+
+1193
+01:32:35,138 --> 01:32:36,556
+Ma, devo dire,
+
+1194
+01:32:36,931 --> 01:32:40,352
+ha senz'altro prolungato
+l'illusione con infinita grazia.
+
+1195
+01:32:41,978 --> 01:32:44,147
+- Sale?
+- No, sedrò qui per un po'.
+
+1196
+01:32:44,314 --> 01:32:46,274
+Buonanotte, dunque.
+
+1197
+01:32:51,488 --> 01:32:52,572
+<i>La settimana successiva,</i>
+
+1198
+01:32:52,906 --> 01:32:55,075
+<i>partii per andare a curarmi
+in Sud America</i>
+
+1199
+01:32:55,283 --> 01:32:57,952
+<i>e iniziai un lungo vagabondare
+all'estero.</i>
+
+1200
+01:32:58,161 --> 01:33:01,039
+<i>Non tornai in Europa
+per molti anni.</i>
+
+1201
+01:33:06,044 --> 01:33:08,421
+<i>Era un'incantevole antica rovina.</i>
+
+1202
+01:33:13,300 --> 01:33:16,021
+<i>Ma non mi riuscì più di rivederla.</i>
+

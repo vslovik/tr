@@ -1,0 +1,9 @@
+perl mteval-v14.pl -r data/hotel/hotel-ref.en.sgm -s data/hotel/hotel-src.it.sgm -t data/hotel/hotel-tr.en.sgm
+
+
+MT evaluation scorer began on 2017 May 21 at 19:42:31
+
+command line:  mteval-v14.pl -r data/hotel/hotel-ref.en.sgm -s data/hotel/hotel-src.it.sgm -t data/hotel/hotel-tr.en.sgm
+
+
+FATAL INPUT ERROR:  no documents in file 'data/hotel/hotel-src.it.sgm'

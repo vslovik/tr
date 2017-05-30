@@ -1,0 +1,2 @@
+cat it_cleaned.txt | wc
+   1201    8066   49053
