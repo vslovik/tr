@@ -1181,6 +1181,7 @@ In questa situazione, rappresento la deceduta.
 Ah, sì?
 Sì. Il pagamento dei miei servigi era incluso nel...
 Metti le cose a posto e non creare problemi, d'accordo?
+
 Sono un notaio. Sono obbligato ad agire secondo norma di legge.
 Non d'accordo.
 Questa cosa puzza, sorelle.
@@ -1188,218 +1189,381 @@ Ha buttato il mio gatto dalla finestra?
 Non credo, no.
 - No, mica l'ha fatto? - Chi, Jopling?
 Okay.
+
 C'è una cosa che non ti ho detto, Agatha.
 - Okay. - Abbiamo rubato un quadro.
 È molto prezioso, forse 5 milioni di Klubeck, in effetti.
 Non so se si siano già accorti del furto
 ma se dovesse succedermi qualcosa...
 Rubi opere d'arte?
+
 Un solo quadro. Comunque dobbiamo avere un piano per la tua sopravvivenza.
 Conserva questo. È in codice e ti servirà una lente per leggerlo,
 c'è scritto esattamente dove e come trovare Ragazzo con Mela.
 Non accettare meno della metà del prezzo di vendita. Inoltre...
+
 - Zero, sono una fornaia. - Sei una pasticciera.
 Non sono una ricettatrice, è questo il punto.
 Non vendo oggetti rubati.
 Mi sono espresso male. Lei voleva che lo avesse lui.
 Dormi.
 Sì, Herr Mendl.
+
 - Conservalo. - No.
+
 Okay, ma prendilo lo stesso.
 Il giorno seguente, Herr Becker ricevette una strana
 notizia dell'ultim'ora dall'ufficio del Vice Kovacs,
 Che rimandava l'appuntamento previsto, per sempre.
+
 Filiamocela.
+
 - Che ci fate lì fuori? - Chiudi quella fogna.
+
 Questi qui tentano di scappare.
+
 Che diavolo ti prende, spia infame?
+
 Guardie! Guardie!
-Sei tu. Grazie. Grazie, dolce, gentile amico.
+
+Sei tu. Grazie.
+
+Grazie, dolce, gentile amico.
+
 Okay.
+
 Credo si possa chiamare un pareggio.
+
 Buona sera.
+
 Lasciate che vi presenti. Pinky, Wolf, Ludwig, questo è il divino Zero.
+
 Gunther è stato ucciso nelle catacombe.
+
 Beh, ragazzi, chissà quando ci rivedremo, ma se un giorno...
+
 Aspetta.
+
 Non c'è tempo per le chiacchiere.
+
 Si prenda cura di lei, Mr. Gustave.
+
 Buona fortuna, ragazzo.
+
 - Da che parte è il rifugio? - Non ne ho trovati.
+
 Nessun rifugio? Sul serio? Siamo da soli qui fuori?
+
 Temo di sì. Ho chiesto in giro, ma...
+
 Capisco. Troppo rischioso. Immagino che dovremo improvvisare.
+
 Mettiamoci i travestimenti.
+
 - Li abbiamo già. - No, affatto.
+
 S'era detto, baffi finti, barba finta, e così via.
+
 - Non hai portato nulla? - Credevo che te la saresti fatta crescere.
+
 E non sarebbe sembrata realistica, no?
+
 Quando sono fatte bene, sono perfettamente convincenti.
+
 Ma capisco. Va bene così.
+
 Dammi qualche spruzzata di Air de Panache, per favore.
+
 - Posso averne una spruzzata? - Ho dimenticato l'Air de Panache.
+
 Hai sul serio dimenticato l'Air de Panache?
+
 Non ci credo, come hai potuto?
+
 Sono stato in galera, Zero! Riesci ad immaginare quanto sia umiliante?
+
 Puzzo.
+
 Meraviglioso, vero?
+
 Immagino non ci si posso aspettare di meglio a... di dove sei tu?
+
 - Aq Salim al-Jabat. - Esatto.
+
 Immagino non ci si posso aspettare di meglio a Aq Salim al-Jabat
 dove i più preziosi beni personali
 sono una pila di tappeti polverosi e una capra morta di fame,
 e si dorme sotto una tenda, tentando di sopravvivere agli scoprioni.
+
 Ma non è così che ti ho addestrato.
+
 Quale demonio ti ha posseduto convincendoti a lasciare
 la terra cui così chiaramente appartieni
-e a percorrere distanze inusitate per diventare un immigrato morto di fame
-in una società colta e raffinata
+e a percorrere distanze inusitate
+per diventare un immigrato morto di fame in una società colta e raffinata
 che, in tutta onestà, poteva tranquillamente fare a meno di te?
+
 La guerra.
+
 Come dici?
+
 Beh, vede, mio padre è stato assassinato
 e il resto della mia famiglia giustiziato da un plotone d'esecuzione.
 Il nostro villaggio è stato raso al suolo
 e i superstiti sono stati costretti a fuggire.
+
 Sono partito a causa della guerra.
+
 Capisco. Quindi sei più che altro un rifugiato politico, giusto?
+
 Giusto.
+
 Beh, suppongo quindi di dovermi rimangiare tutto ciò che ho detto.
 Che stupido idiota, che sono. Un patetico idiota.
+
 Dio, che bastardo egoista.
+
 Ciò è vergognoso, ed è ben sotto gli standard del Grand Budapest.
 Mi scuso a nome dell'hotel.
+
 Non è colpa sua. Era solo arrabbiato perché ho dimenticato il profumo.
 Non è una giustificazione. Ti devo la vita.
+
 Tu sei un caro amico e protetto e io sono orgoglioso di te.
+
 Devi tenerlo a mente.
+
 Sono desolato, Zero.
+
 Siamo fratelli.
+
 Come sta la nostra cara Agatha?
+
 "Fu all'albore che véi nella brughiera il tuo sembiante,
 "e dunque vi ritornai, ad ogni aurora, mesmerizzato,
 "a onta dell'aceto che m'inaspriva il petto, poiché mai..."
+
 Molto bene. Ti fermo qui perché è suonato l'allarme,
 ma ricorda dove sei arrivato perché insisterò che tu continui più tardi.
+
 Voglio posti di blocco ad ogni incrocio nel raggio di 50km.
+
 Bloccate i treni ad ogni stazione nel raggio di 100km.
+
 Voglio 50 uomini e 10 segugi pronti in 5 minuti.
 Perquisiamo ogni Pretzel-Haus, Waffel-hut, Biergarten
 e soprattutto ogni Grand Hotel da Augenzburg a Zilchbrock.
+
 Quegli uomini sono pericolosi criminali professionisti.
 O almeno lo sono tre di loro.
+
 Chi è lei?
+
 Che sta facendo qui? Ai civili è vietato l'accesso alle celle.
 - Questa è un indagine militare. - È Mr. Jopling, signore.
 La madre del suo datore di lavoro era una delle vittime...
+
 Silenzio.
+
 Lavori per la famiglia Desgoffe und Taxis?
+
 Sei a conoscenza dell'omicidio del Vice Vilmos Kovacs, il 23 Ottobre?
+
 Sono a conoscenza della sua scomparsa.
+
 Il suo cadavere è stato trovato in un sarcofago dietro un ripostiglio
 nel Kunstmuseum a tarda notte.
+
 Gli mancavano quattro dita.
+
 - Cosa sa di tutto questo? - Niente.
+
 Scortate Mr. Jopling fuori dall'edificio.
+
 Mendl.
+
 Centralino, mi passi l'Excelsion Palace di Baden-Jurgen,
 chiamata a carico del destinatario.
+
 Non abbiamo scelta. Non possiamo fare altro.
+
 Attendo, grazie.
-Non fosse la nostra sola speranza, non avrei neppure dovuto dirti della sua esistenza
+
+Non fosse la nostra sola speranza, non avrei neppure dovuto dirti della sua esistenza.
+
 È sottinteso che non dovrai mai parlarne ad anima viva.
+
 - Giuri? - Certo. Ma di cosa si tratta?
+
 Non posso dirtelo.
+
 Come si trovano due poltrone di prima fila in galleria
 per una prima all'Opera Toscana con un sol giorno di preavviso?
+
 Come si organizza una visione privata
 della collezione di arazzi alla Royal Saxon Gallery?
-Come si prenota un tavolo ad angolo
-allo Chez Dominique il Venerdì sera?
+
+Come si prenota un tavolo ad angolo allo Chez Dominique il giovedì sera?
+
 Ivan, caro, sono Gustave.
+
 Beh, lo ero fino a circa 5 minuti fa.
+
 Ci siamo presi la responsabilità di andar via prima, se così si può dire.
+
 Beh, attraverso le fognature. Esattamente.
+
 Ascolti, Ivan, mi dispiace interromperla, ma siamo nei guai.
+
 È una richiesta ufficiale.
+
 Richiedo formalmente i servizi della...
+
 La richiamo, Gustave.
+
 Bene. Attendia
+
 Mi perdoni. Preferisce andare a piedi?
+
 Siamo qui. È molto semplice.
+
 Giù per la cengia, poi a sinistra.
+
 Jojo, accompagna il signore alla porta.
+
 Mi passi Monsieur Georges dello Chateau Luxe, per favore.
-Continua tu.
-Pronto, Ivan?
-D'accordo.
-Mi passi Monsieur Dino del Palazzo Principessa, per favore.
+
 In alto, dannazione, più in alto!
+
 Continua tu.
+
 - Monsieur Georges. - Più in alto.
+
 Capisco. Immediatamente.
+
 Mi passi Monsieur Robin dell'Hotel Côte du Cap, per favore.
 ...due e tre.
+
 Monsieur Robin. C'è una chiamata per lei da Monsieur Dino.
+
 Continua tu.
+
 - Uno, due e tre. - Sì, Dino.
+
 Sì, Dino. Okay, Dino.
+
 Mi passi Monsieur Martin del Ritz Imperial, per favore.
+
 Troppo sale.
+
 Troppo poco pepe.
+
 Continua tu.
+
 - Robin? Sono Martin. - Troppo sale.
+
 L'ho sentito, sì.
+
 Forse. Faccio qualche chiamata.
+
 Serge X, scomparso. Vice Kovacs, scomparso anche lui.
+
 Madame D, morta. Ragazzo con Mela, rubato, da noi.
+
 Dmitri e Jopling, spietati barbari senza scrupoli.
+
 Gustave H, latitante. Cos'altro?
+
 - Zero, confuso. - Zero, confuso, certo.
+
 La trama si infittisce, come si suol dire.
+
 Perché, poi? È una metafora boschiva?
+
 Non so.
+
 Entrate.
+
 Abbiamo trovato il maggiordomo.
+
 Si nasconde sul remoto pendio presso il Picco di Gabelmeister.
+
 Il nostro contatto l'ha convinto ad incontrarvi domani a mezzogiorno.
+
 All'osservatorio sulla cima.
+
 Non ditelo a nessuno. Vi spiegherà tutto.
+
 Il vostro treno parte tra 4 minuti e mezzo.
+
 Ecco i biglietti.
+
 - Terza classe? - Era sovraffollato
+
 ma il bigliettaio era sommelier al vecchio Versailles.
+
 Vi ha raccomandato.
+
 Vi serviranno queste per il vagone ristorante.
+
 Un'ultima cosa.
+
 L'Air de Penache.
+
 Lo avevano solo da mezza oncia.
+
 Dobbiamo offrirgli qualcosa come gesto simbolico.
+
 - Quanti soldi hai? - 42 Klubeck e 3 francobolli.
+
 Dammene 25. Su.
+
 - Grazie infinite. - La prego.
+
 - Devo ammettere che è stato bravo. - Cristo santo.
+
 Non me l'aspettavo. Beh, cosa vuoi che faccia ora?
+
 Parla di nuovo con la sorella zoppa, e stavolta sii convincente.
+
 Dannato figlio di puttana.
+
 Cristo in croce!
+
 Che cazzo significa?
+
 Ragazzo con Mela? Pensavo l'avessi nascosto.
+
 - Perché te ne accorgi solo ora? - Credevo lo stesse esaminando un perito.
+
 Mi state prendendo per il culo?
+
 Credo sia stato preso da Monsieur Gustave.
+
 Non sono arrabbiato con Serge.
+
 Non puoi prendertela con qualcuno per la totale mancanza di fibra morale.
+
 È un piccolo, pauroso, pavido codardo.
+
 - Non è colpa sua, no? - Non saprei. Dipende.
+
 Beh, puoi dirlo di qualsiasi cosa.
+
 "Dipende". Ovvio che dipende.
+
 "Ovvio che dipende", ovviamente dipende.
+
 Sì, credo tu abbia ragione. Ovviamente dipende.
+
 Questo non significa che non strozzerò quel piccolo topo di fogna.
+
 Ad ogni modo, posso sposarvi? Celebrare le nozze?
+
 Con piacere.
+
 Devo dire che trovo quella ragazza assolutamente deliziosa.
+
 Piatta come una tavola, con quell'enorme voglia
 a forma di Messico sul suo viso,
 a sudare per ore ed ore in quella afosa cucina
@@ -1407,12 +1571,19 @@ mentre Mendl, per genio che sia,
 incombe su di lei come un goffo gorilla.
 Eppure senza dubbio, senza tema d'errore,
 Lei è sempre e comunque incredibilmente deliziosa.
+
 Perché?
+
 Per la sua purezza.
+
 Anche lei l'ammira, Monsieur Gustave.
+
 - Davvero? - Molto.
+
 È un buon segno, sai. Significa che ne capisce.
+
 È importante.
+
 Non ci provi con lei.
 Un telegramma è stato consegnato personalmente alla ragazza alle 4.
 La busta era vicina al cadavere, ma il contenuto non c'era.
