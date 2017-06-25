@@ -1,18 +1,20 @@
 <?php
 
-$in = fopen('data/hotel/en_cleaned.txt', 'r');
-$out = fopen('data/hotel/en_cleaned_numbered.txt', 'w');
+$in = fopen('data/hotel/it_cleaned.txt', 'r');
+$out = fopen('data/hotel/it_cleaned_numbered.txt', 'w');
 
-$counter = 0;
+$counter = 1;
+$str = $counter;
+fputs($out, $str  . "\n");
 while ($line = fgets($in)) {
-    if(empty($line)) {
-        echo ++$counter;
+    if(!trim($line)) {
+        $str = ++$counter;
+        fputs($out, $str);
     }
     if(!intval($line) && !empty($line)) {
-        echo $line;
+        $str = trim($line);
+        fputs($out, $str . "\n");
     }
-
 }
-
 fclose($in);
 fclose($out);
