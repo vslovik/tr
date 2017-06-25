@@ -20,16 +20,14 @@ while ($line = fgets($in)) {
     }
     else {
         echo $str;
-
         $str_t = $tr->translate($str);
+        echo "\n";
+        echo $str_t;
         fputs($out, $str_t . "\n");
 
         sleep(1);
 
     }
-    if($i > 5)
-        break;
-
 }
 fclose($in);
 fclose($out);
