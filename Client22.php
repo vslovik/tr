@@ -1,8 +1,8 @@
 <?php
 
 
-$in = fopen('data/hotel/en_cleaned_numbered.txt', 'r');
-$out = fopen('data/hotel/en_clean', 'w');
+$in = fopen('data/venus/it_cleaned_numbered', 'r');
+$out = fopen('data/venus/it_clean', 'w');
 $num = 0;
 $strs = [];
 while ($line = fgets($in)) {
