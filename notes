@@ -7,3 +7,5 @@ command line:  mteval-v14.pl -r data/hotel/hotel-ref.en.sgm -s data/hotel/hotel-
 
 
 FATAL INPUT ERROR:  no documents in file 'data/hotel/hotel-src.it.sgm'
+
+cat it_to_en | sed '/^$/d' > it_to_en_

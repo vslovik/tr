@@ -1,0 +1,31 @@
+valeriya@valeriya-MS-7817:~/project/translate$ perl mteval-v14.pl -r data/venus/venus-ref.en.sgm -s data/venus/venus-src.it.sgm -t data/venus/venus-tr.en.sgm
+MT evaluation scorer began on 2017 Jul 19 at 18:59:01
+
+command line:  mteval-v14.pl -r data/venus/venus-ref.en.sgm -s data/venus/venus-src.it.sgm -t data/venus/venus-tr.en.sgm
+
+Evaluation of it-to-en translation using:
+    src set "venus" (1 docs, 1337 segs)
+    ref set "venus" (1 refs)
+    tst set "venus" (1 systems)
+
+NIST score = 7.5169  BLEU score = 0.4328 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  5.0541   1.8105   0.5076   0.1145   0.0302   0.0069   0.0025   0.0016   0.0008   "sys"
+
+ BLEU:  0.7171   0.4988   0.3683   0.2779   0.2151   0.1667   0.1293   0.1015   0.0819   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  5.0541   6.8646   7.3722   7.4867   7.5169   7.5238   7.5263   7.5278   7.5287   "sys"
+
+ BLEU:  0.7095   0.5917   0.5034   0.4328   0.3755   0.3274   0.2863   0.2511   0.2215   "sys"
+
+MT evaluation scorer ended on 2017 Jul 19 at 18:59:03
