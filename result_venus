@@ -29,3 +29,5 @@ Cumulative N-gram scoring
  BLEU:  0.7095   0.5917   0.5034   0.4328   0.3755   0.3274   0.2863   0.2511   0.2215   "sys"
 
 MT evaluation scorer ended on 2017 Jul 19 at 18:59:03
+
+
