@@ -4,11 +4,11 @@ require('vendor/autoload.php');
 
 use Stichoza\GoogleTranslate\TranslateClient;
 
-$tr = new TranslateClient('en', 'it');
+$tr = new TranslateClient('it', 'en');
 
 
-$in = fopen('data/coffee/en_clean', 'r');
-$out = fopen('data/coffee/en_to_it', 'w');
+$in = fopen('data/coffee/it_clean', 'r');
+$out = fopen('data/coffee/it_to_en', 'w');
 
 $i = 0;
 while ($line = fgets($in)) {
