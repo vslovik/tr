@@ -1,7 +1,7 @@
 <?php
 
-$in = fopen('data/deathproof/it_clean_', 'r');
-$out = fopen('data/deathproof/it_clean_numbered', 'w');
+$in = fopen('data/carnage/en_clean_', 'r');
+$out = fopen('data/carnage/en_clean_numbered', 'w');
 
 $counter = 1;
 $str = $counter;
