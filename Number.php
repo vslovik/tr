@@ -1,7 +1,7 @@
 <?php
 
-$in = fopen('data/hotel/it_cleaned.txt', 'r');
-$out = fopen('data/hotel/it_cleaned_numbered.txt', 'w');
+$in = fopen('data/zelig/en_clean_', 'r');
+$out = fopen('data/zelig/en_clean_numbered', 'w');
 
 $counter = 1;
 $str = $counter;
