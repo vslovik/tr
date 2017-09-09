@@ -7,8 +7,8 @@ use Stichoza\GoogleTranslate\TranslateClient;
 $tr = new TranslateClient('en', 'it');
 
 
-$in = fopen('data/hollow/en_clean', 'r');
-$out = fopen('data/hollow/en_to_it', 'w');
+$in = fopen('data/pure/en_clean', 'r');
+$out = fopen('data/pure/en_to_it', 'w');
 
 $i = 0;
 while ($line = fgets($in)) {
