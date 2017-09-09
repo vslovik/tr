@@ -1,8 +1,8 @@
 <?php
 
 
-$in = fopen('data/zelig/it_clean', 'r');
-$out = fopen('data/zelig/it_clean_', 'w');
+$in = fopen('data/coffee/it_clean', 'r');
+$out = fopen('data/coffee/it_clean_', 'w');
 $strs = [];
 while ($line = fgets($in)) {
     if(empty(trim($line))) {

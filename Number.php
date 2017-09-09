@@ -1,7 +1,7 @@
 <?php
 
-$in = fopen('data/zelig/en_clean_', 'r');
-$out = fopen('data/zelig/en_clean_numbered', 'w');
+$in = fopen('data/coffee/en_clean_', 'r');
+$out = fopen('data/coffee/en_clean_numbered', 'w');
 
 $counter = 1;
 $str = $counter;
