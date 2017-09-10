@@ -1,4 +1,8 @@
-valeriya@valeriya-MS-7817:~/project/translate$ perl mteval-v14.pl -r data/venus/venus-ref.en.sgm -s data/venus/venus-src.it.sgm -t data/venus/venus-tr.en.sgm
+valeriya@valeriya-MS-7817:~/project/translate$
+
+
+perl mteval-v14.pl -r data/venus/tr_it_to_en/venus-ref.en.sgm -s data/venus/tr_it_to_en/venus-src.it.sgm -t data/venus/tr_it_to_en/venus-tr.en.sgm
+
 MT evaluation scorer began on 2017 Jul 19 at 18:59:01
 
 command line:  mteval-v14.pl -r data/venus/venus-ref.en.sgm -s data/venus/venus-src.it.sgm -t data/venus/venus-tr.en.sgm

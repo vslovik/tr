@@ -1,0 +1,32 @@
+perl mteval-v14.pl -r data/carnage/tr_en_to_it/carnage-ref.it.sgm -s data/carnage/tr_en_to_it/carnage-src.en.sgm -t data/carnage/tr_en_to_it/carnage-tr.it.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 08:02:10
+
+command line:  mteval-v14.pl -r data/carnage/tr_en_to_it/carnage-ref.it.sgm -s data/carnage/tr_en_to_it/carnage-src.en.sgm -t data/carnage/tr_en_to_it/carnage-tr.it.sgm
+
+Evaluation of en-to-it translation using:
+    src set "carnage" (1 docs, 859 segs)
+    ref set "carnage" (1 refs)
+    tst set "carnage" (1 systems)
+
+NIST score = 3.9612  BLEU score = 0.1433 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  3.1597   0.6548   0.1211   0.0220   0.0036   0.0001   0.0001   0.0000   0.0000   "sys"
+
+ BLEU:  0.4480   0.1933   0.0969   0.0502   0.0274   0.0147   0.0072   0.0036   0.0022   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  3.1597   3.8145   3.9356   3.9576   3.9612   3.9614   3.9615   3.9615   3.9615   "sys"
+
+ BLEU:  0.4480   0.2943   0.2032   0.1433   0.1030   0.0744   0.0533   0.0380   0.0277   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 08:02:11
