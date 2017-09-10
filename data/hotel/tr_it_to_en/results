@@ -1,0 +1,32 @@
+perl mteval-v14.pl -r data/hotel/tr_it_to_en/hotel-ref.en.sgm -s data/hotel/tr_it_to_en/hotel-src.it.sgm -t data/hotel/tr_it_to_en/hotel-tr.en.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 14:01:29
+
+command line:  mteval-v14.pl -r data/hotel/tr_it_to_en/hotel-ref.en.sgm -s data/hotel/tr_it_to_en/hotel-src.it.sgm -t data/hotel/tr_it_to_en/hotel-tr.en.sgm
+
+Evaluation of it-to-en translation using:
+    src set "hotel" (1 docs, 695 segs)
+    ref set "hotel" (1 refs)
+    tst set "hotel" (1 systems)
+
+NIST score = 7.0371  BLEU score = 0.3527 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  5.1142   1.5485   0.3012   0.0605   0.0126   0.0022   0.0009   0.0000   0.0000   "sys"
+
+ BLEU:  0.6721   0.4302   0.2934   0.2045   0.1415   0.0996   0.0706   0.0520   0.0387   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  5.1142   6.6627   6.9639   7.0244   7.0371   7.0393   7.0402   7.0402   7.0402   "sys"
+
+ BLEU:  0.6531   0.5225   0.4270   0.3527   0.2921   0.2430   0.2028   0.1705   0.1441   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 14:01:30

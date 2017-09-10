@@ -1,0 +1,32 @@
+perl mteval-v14.pl -r data/hotel/tr_en_to_it/hotel-ref.it.sgm -s data/hotel/tr_en_to_it/hotel-src.en.sgm -t data/hotel/tr_en_to_it/hotel-tr.it.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 14:07:24
+
+command line:  mteval-v14.pl -r data/hotel/tr_en_to_it/hotel-ref.it.sgm -s data/hotel/tr_en_to_it/hotel-src.en.sgm -t data/hotel/tr_en_to_it/hotel-tr.it.sgm
+
+Evaluation of en-to-it translation using:
+    src set "carnage" (1 docs, 695 segs)
+    ref set "carnage" (1 refs)
+    tst set "carnage" (1 systems)
+
+NIST score = 6.3207  BLEU score = 0.3014 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.7734   1.2973   0.2098   0.0346   0.0056   0.0004   0.0000   0.0000   0.0000   "sys"
+
+ BLEU:  0.6114   0.3665   0.2368   0.1556   0.1039   0.0695   0.0465   0.0307   0.0198   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.7734   6.0707   6.2805   6.3150   6.3207   6.3211   6.3211   6.3211   6.3211   "sys"
+
+ BLEU:  0.6114   0.4734   0.3758   0.3014   0.2436   0.1977   0.1607   0.1307   0.1060   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 14:07:26
