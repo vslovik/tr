@@ -1,0 +1,32 @@
+perl mteval-v14.pl -r data/pillow/tr_it_to_en/pillow-ref.en.sgm -s data/pillow/tr_it_to_en/pillow-src.it.sgm -t data/pillow/tr_it_to_en/pillow-tr.en.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 15:16:22
+
+command line:  mteval-v14.pl -r data/pillow/tr_it_to_en/pillow-ref.en.sgm -s data/pillow/tr_it_to_en/pillow-src.it.sgm -t data/pillow/tr_it_to_en/pillow-tr.en.sgm
+
+Evaluation of it-to-en translation using:
+    src set "pillow" (1 docs, 308 segs)
+    ref set "pillow" (1 refs)
+    tst set "pillow" (1 systems)
+
+NIST score = 5.4693  BLEU score = 0.2841 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.3303   0.9893   0.1284   0.0162   0.0052   0.0029   0.0007   0.0000   0.0000   "sys"
+
+ BLEU:  0.5896   0.3459   0.2252   0.1472   0.0966   0.0674   0.0454   0.0318   0.0196   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.3303   5.3195   5.4479   5.4641   5.4693   5.4723   5.4729   5.4729   5.4729   "sys"
+
+ BLEU:  0.5842   0.4475   0.3549   0.2841   0.2286   0.1862   0.1520   0.1249   0.1015   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 15:16:23
