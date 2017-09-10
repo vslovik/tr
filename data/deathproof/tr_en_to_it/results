@@ -1,0 +1,32 @@
+perl mteval-v14.pl -r data/deathproof/tr_en_to_it/deathproof-ref.it.sgm -s data/deathproof/tr_en_to_it/deathproof-src.en.sgm -t data/deathproof/tr_en_to_it/deathproof-tr.it.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 13:04:02
+
+command line:  mteval-v14.pl -r data/deathproof/tr_en_to_it/deathproof-ref.it.sgm -s data/deathproof/tr_en_to_it/deathproof-src.en.sgm -t data/deathproof/tr_en_to_it/deathproof-tr.it.sgm
+
+Evaluation of en-to-it translation using:
+    src set "deathproof" (1 docs, 786 segs)
+    ref set "deathproof" (1 refs)
+    tst set "deathproof" (1 systems)
+
+NIST score = 4.0850  BLEU score = 0.1258 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  3.3713   0.6174   0.0861   0.0084   0.0018   0.0001   0.0000   0.0000   0.0000   "sys"
+
+ BLEU:  0.4466   0.1814   0.0851   0.0401   0.0193   0.0085   0.0035   0.0008   0.0004   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  3.3713   3.9886   4.0747   4.0832   4.0850   4.0851   4.0851   4.0851   4.0851   "sys"
+
+ BLEU:  0.4354   0.2775   0.1856   0.1258   0.0860   0.0582   0.0388   0.0238   0.0149   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 13:04:04

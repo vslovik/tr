@@ -1,0 +1,2 @@
+perl mteval-v14.pl -r data/coffee/tr_it_to_en/coffee-ref.en.sgm -s data/coffee/tr_it_to_en/coffee-src.it.sgm -t data/coffee/tr_it_to_en/coffee-tr.en.sgm
+

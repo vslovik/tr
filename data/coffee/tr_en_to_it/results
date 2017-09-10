@@ -1,0 +1,33 @@
+perl mteval-v14.pl -r data/coffee/tr_en_to_it/coffee-ref.it.sgm -s data/coffee/tr_en_to_it/coffee-src.en.sgm -t data/coffee/tr_en_to_it/coffee-tr.it.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 12:43:12
+
+command line:  mteval-v14.pl -r data/coffee/tr_en_to_it/coffee-ref.it.sgm -s data/coffee/tr_en_to_it/coffee-src.en.sgm -t data/coffee/tr_en_to_it/coffee-tr.it.sgm
+
+Evaluation of en-to-it translation using:
+    src set "coffee" (1 docs, 960 segs)
+    ref set "coffee" (1 refs)
+    tst set "coffee" (1 systems)
+
+NIST score = 4.4412  BLEU score = 0.1857 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  3.4646   0.8002   0.1439   0.0275   0.0051   0.0006   0.0000   0.0000   0.0000   "sys"
+
+ BLEU:  0.5059   0.2425   0.1354   0.0717   0.0381   0.0206   0.0110   0.0061   0.0037   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  3.4646   4.2648   4.4087   4.4361   4.4412   4.4418   4.4418   4.4418   4.4418   "sys"
+
+ BLEU:  0.5059   0.3503   0.2551   0.1857   0.1353   0.0988   0.0723   0.0531   0.0395   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 12:43:13
+
