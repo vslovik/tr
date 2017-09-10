@@ -1,1 +1,32 @@
 perl mteval-v14.pl -r data/zelig/tr_en_to_it/zelig-ref.it.sgm -s data/zelig/tr_en_to_it/zelig-src.en.sgm -t data/zelig/tr_en_to_it/zelig-tr.it.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 16:48:52
+
+command line:  mteval-v14.pl -r data/zelig/tr_en_to_it/zelig-ref.it.sgm -s data/zelig/tr_en_to_it/zelig-src.en.sgm -t data/zelig/tr_en_to_it/zelig-tr.it.sgm
+
+Evaluation of en-to-it translation using:
+    src set "zelig" (1 docs, 624 segs)
+    ref set "zelig" (1 refs)
+    tst set "zelig" (1 systems)
+
+NIST score = 5.6049  BLEU score = 0.2195 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.4436   1.0031   0.1356   0.0184   0.0042   0.0003   0.0003   0.0000   0.0000   "sys"
+
+ BLEU:  0.5603   0.3026   0.1819   0.1082   0.0622   0.0330   0.0168   0.0088   0.0048   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.4436   5.4467   5.5823   5.6008   5.6049   5.6052   5.6055   5.6055   5.6055   "sys"
+
+ BLEU:  0.5118   0.3761   0.2865   0.2195   0.1675   0.1259   0.0932   0.0686   0.0505   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 16:48:53

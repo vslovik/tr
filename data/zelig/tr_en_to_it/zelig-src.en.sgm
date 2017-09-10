@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
 <mteval>
-<srcset setid="carnage" srclang="en">
-<doc docid="carnage" genre="subtitles" origlang="en" sysid="sys">
+<srcset setid="zelig" srclang="en">
+<doc docid="zelig" genre="subtitles" origlang="en" sysid="sys">
 <seg id="1"> ﻿He was the phenomenon of the '20s. </seg>
 <seg id="2"> When you think, at the time, he was as well-known as Lindbergh, it's really quite astonishing. </seg>
 <seg id="3"> His story reflected the nature of our civilization, the character of our times, yet it was also one man's story. And all the themes of our culture were there. Heroism, will, things like that. </seg>
@@ -243,7 +243,8 @@
 <seg id="238"> The '20s come to a crashing climax, and still Leonard Zelig is nowhere to be found. </seg>
 <seg id="239"> Dr. Eudora Fletcher searches in vain to locate him. When several leads prove disappointing, she gives up, discouraged. </seg>
 <seg id="240"> I felt it was a shame, because here was this unique case that I could make my reputation on. </seg>
-<seg id="241"> Not that I knew how to cure him, but if I could have him alone and feel my way and be innovative and creative, I felt that I could change his life, if I only had the chance. </seg>
+<seg id="241"> Not that I knew how to cure him, but if I could have him alone and feel my way and be innovative and creative, </seg>
+<seg id="242"> I felt that I could change his life, if I only had the chance. </seg>
 <seg id="243"> Borne on the shoulders of 12 attendants, </seg>
 <seg id="244"> the seat of the gestatoria carrying the Holy Father is drawn out to the central balcony, where he bestows his blessing on Rome and all the world. </seg>
 <seg id="245"> This is the first time that this ritual has been performed in 63 years, and brings to a climax on Easter Sunday the religious ceremonies of Holy Week. </seg>
