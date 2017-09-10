@@ -7,7 +7,7 @@ if(empty($argv[1])) {
 
 $in = fopen($argv[1], 'r');
 $out = fopen($argv[1]. '.sgm', 'w');
-$str = '';
+$str = ''; $num = 0;
 while ($line = fgets($in)) {
 
     $line = trim($line);
