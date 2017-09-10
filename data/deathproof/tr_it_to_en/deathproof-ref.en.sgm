@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
+<mteval>
+<refset setid="deathproof" srclang="it" trglang="en">
+<doc docid="deathproof" genre="subtitles" origlang="en" sysid="sys">
 <seg id="1"> Hold on. I gotta come up. </seg>
 <seg id="2"> I gotta take the world's biggest fucking piss. </seg>
 <seg id="3"> We can't be late. We won't! </seg>
@@ -784,3 +789,7 @@
 <seg id="784"> Help me! </seg>
 <seg id="785"> Oh help me! </seg>
 <seg id="786"> Asshole! </seg>
+</doc>
+</refset>
+</mteval>
+</xml>

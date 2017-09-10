@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
+<mteval>
+<srcset setid="deathproof" srclang="it">
+<doc docid="deathproof" genre="subtitles" origlang="it" sysid="sys">
 <seg id="1"> Aspettate, aspettate! </seg>
 <seg id="2"> Devo fare una pisciata, la pisciata più grande del mondo! </seg>
 <seg id="3"> - Cosi facciamo tardi! - Sta' tranquilla! </seg>
@@ -784,3 +789,7 @@
 <seg id="784"> Aiuto! </seg>
 <seg id="785"> Aiuto! </seg>
 <seg id="786"> - Coglione! </seg>
+</doc>
+</srcset>
+</mteval>
+</xml>
