@@ -1,0 +1,32 @@
+perl mteval-v14.pl -r data/all/tr_en_to_it/all-ref.it.sgm -s data/all/tr_en_to_it/all-src.en.sgm -t data/all/tr_en_to_it/all-tr.it.sgm
+
+MT evaluation scorer began on 2017 Sep 10 at 19:04:21
+
+command line:  mteval-v14.pl -r data/all/tr_en_to_it/all-ref.it.sgm -s data/all/tr_en_to_it/all-src.en.sgm -t data/all/tr_en_to_it/all-tr.it.sgm
+
+Evaluation of en-to-it translation using:
+    src set "all" (9 docs, 6765 segs)
+    ref set "all" (1 refs)
+    tst set "all" (1 systems)
+
+NIST score = 5.8317  BLEU score = 0.2209 for system "sys"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.2516   1.2337   0.2849   0.0511   0.0104   0.0012   0.0004   0.0001   0.0001   "sys"
+
+ BLEU:  0.5328   0.2790   0.1648   0.0980   0.0593   0.0362   0.0220   0.0137   0.0087   "sys"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  4.2516   5.4852   5.7702   5.8213   5.8317   5.8329   5.8332   5.8334   5.8334   "sys"
+
+ BLEU:  0.5319   0.3849   0.2899   0.2209   0.1698   0.1312   0.1016   0.0791   0.0619   "sys"
+
+MT evaluation scorer ended on 2017 Sep 10 at 19:04:31

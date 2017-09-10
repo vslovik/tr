@@ -5,9 +5,9 @@ MT evaluation scorer began on 2017 Sep 10 at 14:07:24
 command line:  mteval-v14.pl -r data/hotel/tr_en_to_it/hotel-ref.it.sgm -s data/hotel/tr_en_to_it/hotel-src.en.sgm -t data/hotel/tr_en_to_it/hotel-tr.it.sgm
 
 Evaluation of en-to-it translation using:
-    src set "carnage" (1 docs, 695 segs)
-    ref set "carnage" (1 refs)
-    tst set "carnage" (1 systems)
+    src set "hotel" (1 docs, 695 segs)
+    ref set "hotel" (1 refs)
+    tst set "hotel" (1 systems)
 
 NIST score = 6.3207  BLEU score = 0.3014 for system "sys"
 

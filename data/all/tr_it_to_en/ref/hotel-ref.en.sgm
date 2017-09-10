@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
 <mteval>
-<srcset setid="hotel" srclang="en">
+<refset setid="hotel" srclang="it" trglang="en">
 <doc docid="hotel" genre="subtitles" origlang="en" sysid="sys">
 <seg id="1"> It is an extremely common mistake, people think the writer's imagination is always at work, that he's constantly inventing an endless supply of incidents and episodes, that he simply dreams up his stories out of thin air. </seg>
 <seg id="2"> In point of fact, the opposite is true. </seg>
@@ -699,6 +699,6 @@
 <seg id="695"> I did not return to Europe for many years. </seg>
 <seg id="696"> It was an enchanting old ruin. </seg>
 </doc>
-</srcset>
+</refset>
 </mteval>
 </xml>

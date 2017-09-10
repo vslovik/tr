@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
 <mteval>
-<refset setid="hotel" srclang="en" trglang="it">
+<srcset setid="hotel" srclang="it">
 <doc docid="hotel" genre="subtitles" origlang="it" sysid="sys">
 <seg id="1"> È un errore molto comune, si crede che l'immaginazione di uno scrittore sia sempre all'opera, che questi inventi costantemente migliaia di eventi, di episodi, che crei le sue storie dal nulla. </seg>
 <seg id="2"> In realtà, è vero l'opposto. </seg>
@@ -699,6 +699,6 @@
 <seg id="695"> Non tornai in Europa per molti anni. </seg>
 <seg id="696"> Era un'incantevole antica rovina. </seg>
 </doc>
-</refset>
+</srcset>
 </mteval>
 </xml>
