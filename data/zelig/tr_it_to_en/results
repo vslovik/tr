@@ -1,0 +1,1 @@
+perl mteval-v14.pl -r data/zelig/tr_it_to_en/zelig-ref.en.sgm -s data/zelig/tr_it_to_en/zelig-src.it.sgm -t data/zelig/tr_it_to_en/zelig-tr.en.sgm
