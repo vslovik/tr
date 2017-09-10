@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
 <mteval>
-<tstset setid="carnage" srclang="it" trglang="en">
-<doc docid="carnage" genre="subtitles" sysid="sys">
+<tstset setid="zelig" srclang="it" trglang="en">
+<doc docid="zelig" genre="subtitles" sysid="sys">
 <seg id="1"> It was the phenomenon of the 1920s. </seg>
 <seg id="2"> If you think that at the time it was as famous as Lindbergh ... it's really sophisticated. </seg>
 <seg id="3"> Its history reflects the nature of our civilization ... the character of our times. Yet it is also the story of a man ... and there are all the issues of our culture ... heroism, will, things like these ... </seg>

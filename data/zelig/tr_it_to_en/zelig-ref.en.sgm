@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd">
 <mteval>
-<refset setid="carnage" srclang="it" trglang="en">
-<doc docid="carnage" genre="subtitles" origlang="en" sysid="sys">
+<refset setid="zelig" srclang="it" trglang="en">
+<doc docid="zelig" genre="subtitles" origlang="en" sysid="sys">
 <seg id="1"> ﻿He was the phenomenon of the '20s. </seg>
 <seg id="2"> When you think, at the time, he was as well-known as Lindbergh, it's really quite astonishing. </seg>
 <seg id="3"> His story reflected the nature of our civilization, the character of our times, yet it was also one man's story. And all the themes of our culture were there. Heroism, will, things like that. </seg>
@@ -628,6 +628,6 @@
 <seg id="623"> "One wonders what would have happened if, right at the outset, "he had had the courage to speak his mind and not pretend. </seg>
 <seg id="624"> "In the end it was, after all, "not the approbation of many, but the love of one woman that changed his life." </seg>
 </doc>
-</tstset>
+</refset>
 </mteval>
 </xml>
