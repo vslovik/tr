@@ -1,6 +1,4 @@
 <?php
-
-
 $in = fopen('data/carnage/it_clean', 'r');
 $out = fopen('data/carnage/it_clean_', 'w');
 $strs = [];
